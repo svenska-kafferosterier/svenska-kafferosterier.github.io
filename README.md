@@ -34,6 +34,7 @@ Johan & Nyström|Skogås|johanochnystrom.se|👍|❓|❓|❓|Beställ Johan & Ny
 Järna Rosteri|Järna|jarnarosteri.se|❓|❓|❓|❓|Rostar ekologiskt kaffe och erjuder barista-utbildningar.
 Kaffemästaren|Örebro|kaffemastaren.se|👍|❓|❓|❓|Med butik för både kaffe och utrustning i centrala Örebro.
 Kafferosteriet Götheborg|Jörlanda|www.kafferosterietgotheborg.se|👍|❓|❓|❓|Med butik i Jörlanda utanför Göteborg.
+Kafferosteriet Koppar|Tyresö|kafferosterietkoppar.se|👍|👍|❓|👍|Du får jättegärna komma förbi!
 Kafferäven Per Norby|Göteborg|kafferaven.se|👍|❓|❓|❓|Etablerat 2013.
 Kahls Kaffe|Västra Frölunda|kahls.se|👍|❓|❓|❓|Etablerat 1911 och har både te och kaffe i sortimentet. Beställ Kahls Kaffe här.
 Kaprifolet|Väröbacka|kaprifolet.se|👍|❓|❓|❓|Rostar hos Gringo Nordic Coffee Roasters, skickar fraktfritt i Götet.
