@@ -12,7 +12,6 @@ Björklunds Kafferosteri|Västerås|bjorklundskaffe.se|👍|❓|❓|❓|Med kaff
 Blekinge Kafferosteri|Mörrum|blekinge.coffee|👍|❓|❓|❓|Anordnar kaffeprovningar och har butik i Mörrum.
 Borås Kafferosteri|Borås|boraskafferosteri.se|👍|❓|❓|❓|Rostar bland annat den egna sorten Boråsblandning.
 Budhas Kafferosteri|Lycksele|budhaskafferosteri.se|👍|❓|❓|❓|Rostning av Budha Sutedja, anordnar kaffeprovningar för 5-20 personer.
-Café Sarria|Gävle|cafesarria.com|👍|❓|❓|❓|Kaffeodlare, exportörer, rostare och handlare av sitt egna kaffe.
 Cafego|Helsingborg|cafego.se|👍|❓|❓|❓|Sikta högt, Cafegos kaffe odlas i alla fall på hög höjd.
 Coffea Circulor|❓|coffeacirculor.com|👍|❓|❓|❓|Bedriver forskning för att främja kaffeodlandet är också ett rosteri.
 Conifer Coffee|Göteborg|conifer.coffee|👍|❓|❓|❓|Småskaligt på västkusten.
@@ -75,6 +74,7 @@ Zoégas|Helsingborg|zoegas.se|❓|❓|❓|❓|Etablerat 1886.
 Namn|Plats(📍)|URL (🌐)|Webshop (📦)|Prenumeration (🗓)|Eget café/bar (☕️)|Kurser (🧑‍🎓)|Kommentar (💬)
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 Areyko|Malmö
+Café Sarria|Gävle|cafesarria.com|||||Har tyvärr inte kaffe längre.
 Dellerhamn|-|-|-|-|-|-|rostar numera hos Johan & Nyström|
 Eemils Kafferosteri|Pinnarekulla
 Gotlands Kafferosteri|Visby
@@ -84,4 +84,3 @@ Mauritz|Kaffe
 Mogen Coffee|Säter
 Möller & Co|Stockholm
 Waxholms Kafferosteri|Waxholm
-
