@@ -22,6 +22,7 @@ Drop Coffee|Stockholm|[dropcoffee.com](https://dropcoffee.com)|👍|👍|❓|❓
 Etnia|Uppsala|[etnia.se](https://etnia.se)|👍|❓|❓|❓|Kaffehandlare med mikrorosteri i Uppsala.
 Gamla Snickeriet Kafferosteri|Säter|[gamlasnickeriet.se](https://gamlasnickeriet.se)|👍|❓|❓|❓|Rosteri i ett gammalt snickeri, helt enkelt.
 Gevalia|Gävle|[gevalia.se](https://gevalia.se)|👍|❓|❓|❓|Etablerat på 1920-talet i Gävle.
+Gibsons Coffee|Jonsered|[https://gibsonscoffee.se/](https://gibsonscoffee.se/)|👍|❌|❌|❌|Gibson Coffee erbjuder hantverksrostat specialkaffe!
 Gringo Nordic Coffe Roasters|Göteborg|[gringonordic.se](https://gringonordic.se)|👍|❓|❓|❓|Rosteri i centrala Göteborg med egen odling i Colombia.
 Grästorps Kafferosteri|Grästorp|❓|❓|❓|❓|❓|Rostar, säljer och maler kaffebönor på Viktorlundsgatan 12.
 Guldrutans Kaffe|Söderhamn|[guldrutan.se](https://guldrutan.se)|👍|❓|❓|❓|Grundat 1946.
