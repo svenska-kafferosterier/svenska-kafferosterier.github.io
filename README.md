@@ -57,7 +57,7 @@ Qvarsebo Kaffe|Kvarsebo|[qvarsebokaffe.se](https://qvarsebokaffe.se)|❓|❓|❓
 Rosteriet Vadstena|Vadstena|[rosterietvadstena.se](https://rosterietvadstena.se)|📦|❓|❓|❓|Familjeägt och drivet sedan 2015.
 Rävgrytets Kafferosteri|Sågmyra Herrgård|[ravgrytet.se](https://ravgrytet.se)|📦|❓|❓|❓|Med ett kaffe som heter Support your Locals, gör det!
 Sandby Kafferosteri|Södra Sandby|[sandbykafferosteri.se](https://sandbykafferosteri.se)|❓|❓|❓|❓|Etablerat 2011.
-Simons Rosteri Bageri|Linköping|[simonsrosteribageri.se](https://simonsrosteribageri.se)|❓|❓|❓|❓|Kafferosteri, hantverksbageri och café.
+Simons Rosteri Bageri|Linköping|[simonsrosteribageri.se](https://simonsrosteribageri.se)|📦|🗓|☕️|❓|Kafferosteri, hantverksbageri och café.
 Slöinge Kafferosteri|Slöinge|[sloingekafferosteri.se](https://sloingekafferosteri.se)|📦|🗓|❓|❓|Etablerat 2013, erbjuder kaffeprenumeration.
 Smögens Kafferosteri|Smögen|[smogenskafferosteri.se](https://smogenskafferosteri.se)|❓|❓|❓|❓|Etablerat 2018 och så vitt jag vet sveriges enda kafferosteri i en sjöbod.
 Solde Kaffe|Malmö|[solde.se](https://solde.se)|📦|❓|❓|❓|Rosteri och kaffebar sedan 2006.
