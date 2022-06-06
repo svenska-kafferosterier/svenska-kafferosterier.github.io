@@ -24,9 +24,12 @@
   url: '[archipelago.coffee](https://archipelago.coffee)'
   webshop: true
 - name: Arvid Nordquist
+  cafe: false
   comment: Etablerat 1884.
   location: Solna
   url: '[arvidnordquist.se](https://arvidnordquist.se)'
+  webshop: false
+  courses: false
 - name: Balck Coffee
   comment: Rosteri med kaffeprenumerationer och kurser.
   courses: true
