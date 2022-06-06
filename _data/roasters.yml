@@ -1,4 +1,9 @@
 ---
+- name: Areyko
+  comment: ''
+  eol: true
+  location: Malmö
+  url: ''
 - name: Archipelago Coffee
   comment: Hittas i Stockholms skärgård precis som namnet antyder.
   location: Rindö
@@ -52,6 +57,11 @@
   location: Helsingborg
   url: '[cafego.se](https://cafego.se)'
   webshop: true
+- name: Café Sarria
+  comment: Har tyvärr inte kaffe längre.
+  eol: true
+  location: Gävle
+  url: '[cafesarria.com](https://cafesarria.com)'
 - name: Coffea Circulor
   comment: Bedriver forskning för att främja kaffeodlandet är också ett rosteri.
   location: ❓
@@ -77,12 +87,22 @@
   location: Göteborg
   url: '[damatteo.se](https://damatteo.se)'
   webshop: true
+- name: Dellerhamn
+  comment: rostar numera hos Johan & Nyström
+  eol: true
+  location: '-'
+  url: '-'
 - name: Drop Coffee
   comment: Etablerat 2009 med café på Mariatorget. Erbjuder kaffeprenumeration.
   location: Stockholm
   subscription: true
   url: '[dropcoffee.com](https://dropcoffee.com)'
   webshop: true
+- name: Eemils Kafferosteri
+  comment: ''
+  eol: true
+  location: Pinnarekulla
+  url: ''
 - name: Etnia
   comment: Kaffehandlare med mikrorosteri i Uppsala.
   location: Uppsala
@@ -106,6 +126,11 @@
   subscription: false
   url: '[gibsonscoffee.se](https://gibsonscoffee.se/)'
   webshop: true
+- name: Gotlands Kafferosteri
+  comment: ''
+  eol: true
+  location: Visby
+  url: ''
 - name: Gringo Nordic Coffe Roasters
   comment: Rosteri i centrala Göteborg med egen odling i Colombia.
   location: Göteborg
@@ -164,6 +189,11 @@
   location: Jörlanda
   url: '[www.kafferosterietgotheborg.se](https://www.kafferosterietgotheborg.se)'
   webshop: true
+- name: Kafferosteriet / Cirkelkaffe
+  comment: ''
+  eol: true
+  location: Gäddviken
+  url: ''
 - name: Kafferosteriet Koppar
   comment: Du får jättegärna komma förbi!
   courses: true
@@ -215,6 +245,11 @@
   comment: Rosteri i femte generationen i centrala Uppsala.
   location: Uppsala
   url: '[lindvallskaffe.se](https://lindvallskaffe.se)'
+- name: Lomberg
+  comment: ''
+  eol: true
+  location: Skivarp
+  url: ''
 - name: Love Coffee
   comment: Har kaffeprenumeration och en kaffebar på Klostergatan i Lund.
   location: Lund
@@ -230,16 +265,31 @@
   comment: Rosteri med egen arena. Kaffebar i Karlstad och Stockholm.
   location: Karlstad
   url: '[lofbergs.se](https://lofbergs.se)'
+- name: Mauritz
+  comment: ''
+  eol: true
+  location: Kaffe
+  url: ''
 - name: Meltzers Kafferosteri Warberg
   comment: Med kaffet Boxten som sägs gör sig extra bra i skogen.
   location: Varberg
   url: '[meltzerskaffe.se](https://meltzerskaffe.se)'
+- name: Mogen Coffee
+  comment: ''
+  eol: true
+  location: Säter
+  url: ''
 - name: Muttley & Jack’s Coffee Roasters
   comment: Etablerat 2017 med kaffeprenumeration.
   location: Vaxholm
   subscription: true
   url: '[muttleyandjacks.se](https://muttleyandjacks.se)'
   webshop: true
+- name: Möller & Co
+  comment: ''
+  eol: true
+  location: Stockholm
+  url: ''
 - name: Nordiska Kafferosteriet
   comment: Rostat kaffe sen 2011.
   location: Mölnlycke
@@ -330,6 +380,11 @@
   subscription: true
   url: '[uppsalakafferosteri.se](https://uppsalakafferosteri.se)'
   webshop: true
+- name: Waxholms Kafferosteri
+  comment: ''
+  eol: true
+  location: Waxholm
+  url: ''
 - name: Zoégas
   comment: Etablerat 1886.
   location: Helsingborg
@@ -342,59 +397,4 @@
   subscription: true
   url: '[arekafferosteri.se](https://arekafferosteri.se)'
   webshop: true
-- name: Areyko
-  comment: ''
-  eol: true
-  location: Malmö
-  url: ''
-- name: Café Sarria
-  comment: Har tyvärr inte kaffe längre.
-  eol: true
-  location: Gävle
-  url: '[cafesarria.com](https://cafesarria.com)'
-- name: Dellerhamn
-  comment: rostar numera hos Johan & Nyström
-  eol: true
-  location: '-'
-  url: '-'
-- name: Eemils Kafferosteri
-  comment: ''
-  eol: true
-  location: Pinnarekulla
-  url: ''
-- name: Gotlands Kafferosteri
-  comment: ''
-  eol: true
-  location: Visby
-  url: ''
-- name: Kafferosteriet / Cirkelkaffe
-  comment: ''
-  eol: true
-  location: Gäddviken
-  url: ''
-- name: Lomberg
-  comment: ''
-  eol: true
-  location: Skivarp
-  url: ''
-- name: Mauritz
-  comment: ''
-  eol: true
-  location: Kaffe
-  url: ''
-- name: Mogen Coffee
-  comment: ''
-  eol: true
-  location: Säter
-  url: ''
-- name: Möller & Co
-  comment: ''
-  eol: true
-  location: Stockholm
-  url: ''
-- name: Waxholms Kafferosteri
-  comment: ''
-  eol: true
-  location: Waxholm
-  url: ''
 
