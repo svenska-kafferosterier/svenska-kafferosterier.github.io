@@ -32,8 +32,9 @@
   url: '[arvidnordquist.se](https://arvidnordquist.se)'
   webshop: false
 - name: Balck Coffee
+  cafe: false
   comment: Rosteri med kaffeprenumerationer och kurser.
-  courses: true
+  courses: false
   location: Kalmar
   subscription: true
   url: '[balckcoffee.se](https://balckcoffee.se)'
