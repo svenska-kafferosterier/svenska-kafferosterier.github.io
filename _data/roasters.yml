@@ -1,3 +1,15 @@
+#
+# Required and always first key:
+# name: string
+# Possible keys (sorted by alfabet):
+# eol: boolean
+# comment: string
+# courses: boolean
+# location: string
+# subscription: boolean
+# url: markdown formated link as string
+# webshop: boolean
+#
 ---
 - name: Areyko
   eol: true
