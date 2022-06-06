@@ -26,10 +26,11 @@
 - name: Arvid Nordquist
   cafe: false
   comment: Etablerat 1884.
+  courses: false
   location: Solna
+  subscription: false
   url: '[arvidnordquist.se](https://arvidnordquist.se)'
   webshop: false
-  courses: false
 - name: Balck Coffee
   comment: Rosteri med kaffeprenumerationer och kurser.
   courses: true
