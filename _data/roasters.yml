@@ -3,6 +3,7 @@
 # name: string
 # Possible keys (sorted by alfabet):
 # eol: boolean
+# cafe: boolean
 # comment: string
 # courses: boolean
 # location: string
