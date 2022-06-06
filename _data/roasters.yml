@@ -15,8 +15,11 @@
   eol: true
   location: Malmö
 - name: Archipelago Coffee
+  cafe: false
   comment: Hittas i Stockholms skärgård precis som namnet antyder.
+  courses: false
   location: Rindö
+  subscription: false
   url: '[archipelago.coffee](https://archipelago.coffee)'
   webshop: true
 - name: Arvid Nordquist
