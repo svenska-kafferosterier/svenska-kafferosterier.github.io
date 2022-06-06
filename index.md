@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-En gång i tiden fanns denna lista på Kaffebryggan.com som numer enbart är nåbar via web.archive.org. [PRs are welcome - help us fill the blanks (❓)!](https://github.com/svenska-kafferosterier-rymdvarel-se/svenska-kafferosterier-rymdvarel-se.github.io)
+En gång i tiden fanns denna lista på Kaffebryggan.com som numer enbart är nåbar via web.archive.org. [PRs are welcome - help us fill the blanks (❓)!](https://github.com/svenska-kafferosterier/svenska-kafferosterier.github.io)
 
 {% assign loops = "main,eol" | split: "," %}
 {% for loop in loops %}
