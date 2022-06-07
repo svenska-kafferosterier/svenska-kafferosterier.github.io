@@ -3,11 +3,11 @@ layout: default
 ---
 En gång i tiden fanns denna lista på Kaffebryggan.com som numer enbart är nåbar via web.archive.org. [PRs are welcome - help us fill the blanks (❓)!](https://github.com/svenska-kafferosterier/svenska-kafferosterier.github.io)
 
-{% assign loops = "main,eol" | split: "," %}
-{% for loop in loops %}
-  {% if loop == "eol" %}
+{% assign loops = "main,eol" | split: "," -%}
+{% for loop in loops -%}
+  {% if loop == "eol" -%}
 ### EOL
-  {% endif %}
+  {% endif -%}
 <table>
   <tr>
     <th>Namn</th>
@@ -19,69 +19,69 @@ En gång i tiden fanns denna lista på Kaffebryggan.com som numer enbart är nå
     <th>Kurser (🧑‍🎓)</th>
     <th>Kommentar (💬)</th>
   </tr>
-  {% for entry in site.data.roasters %}
-    {% if loop == "main" and entry.eol %}
-      {% continue %}
-    {% endif %}
+  {% for entry in site.data.roasters -%}
+    {% if loop == "main" and entry.eol -%}
+      {% continue -%}
+    {% endif -%}
 
-    {% if loop == "eol" and entry.eol != true %}
-      {% continue %}
-    {% endif %}
+    {% if loop == "eol" and entry.eol != true -%}
+      {% continue -%}
+    {% endif -%}
 
-    {% if entry.eol %}
+    {% if entry.eol -%}
   <tr class="strikeout">
-    {% else %}
+    {% else -%}
   <tr>
-    {% endif %}
+    {% endif -%}
     <td>{{ entry.name }}</td>
-    {% if entry.location %}
+    {% if entry.location -%}
     <td>{{ entry.location }}</td>
-    {% else %}
+    {% else -%}
     <td>❓</td>
-    {% endif %}
+    {% endif -%}
     <td>{{ entry.url | markdownify  }}</td>
     <td>
-    {% if entry.webshop %}
+    {% if entry.webshop -%}
     📦
-    {% elsif entry.webshop == false %}
+    {% elsif entry.webshop == false -%}
     ❌
-    {% else %}
+    {% else -%}
     ❓
-    {% endif %}
+    {% endif -%}
     </td>
 
     <td>
-    {% if entry.subscription %}
+    {% if entry.subscription -%}
     🗓
-    {% elsif entry.subscription == false %}
+    {% elsif entry.subscription == false -%}
     ❌
-    {% else %}
+    {% else -%}
     ❓
-    {% endif %}
+    {% endif -%}
     </td>
 
     <td>
-    {% if entry.cafe %}
+    {% if entry.cafe -%}
     ☕️
-    {% elsif entry.cafe == false %}
+    {% elsif entry.cafe == false -%}
     ❌
-    {% else %}
+    {% else -%}
     ❓
-    {% endif %}
+    {% endif -%}
     </td>
 
     <td>
-    {% if entry.courses %}
+    {% if entry.courses -%}
     🧑‍🎓
-    {% elsif entry.courses == false %}
+    {% elsif entry.courses == false -%}
     ❌
-    {% else %}
+    {% else -%}
     ❓
-    {% endif %}
+    {% endif -%}
     </td>
 
   <td>{{ entry.comment }}</td>
   </tr>
-  {% endfor %}
+  {% endfor -%}
 </table>
-{% endfor %}
+{% endfor -%}
