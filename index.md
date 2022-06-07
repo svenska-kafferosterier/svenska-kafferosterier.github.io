@@ -80,7 +80,7 @@ En gång i tiden fanns denna lista på Kaffebryggan.com som numer enbart är nå
     {% endif -%}
     </td>
 
-  <td>{{ entry.comment }}</td>
+    <td>{{ entry.comment }}</td>
   </tr>
   {% endfor -%}
 </table>
