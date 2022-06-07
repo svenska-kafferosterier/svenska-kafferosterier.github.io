@@ -40,8 +40,11 @@
   url: '[balckcoffee.se](https://balckcoffee.se)'
   webshop: true
 - name: Bergstrands Kaffferosteri
+  cafe: false
   comment: Etablerat 1891. Köp Bergstrands kaffe online.
+  courses: false
   location: Göteborg
+  subscription: false
   url: '[bergstrands.se](https://bergstrands.se)'
   webshop: true
 - name: Big Lake Coffee Roasters
