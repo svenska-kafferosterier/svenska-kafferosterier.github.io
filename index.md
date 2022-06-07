@@ -41,50 +41,42 @@ En gång i tiden fanns denna lista på Kaffebryggan.com som numer enbart är nå
     {% endif %}
     <td>{{ entry.url | markdownify  }}</td>
     <td>
-    {% if entry.webshop != None %}
-      {% if entry.webshop == true %}
-      📦
-      {% else %}
-      ❌
-      {% endif %}
+    {% if entry.webshop %}
+    📦
+    {% elsif entry.webshop == false %}
+    ❌
     {% else %}
-      ❓
+    ❓
     {% endif %}
     </td>
 
     <td>
-    {% if entry.subscription != None %}
-      {% if entry.subscription == true %}
-      🗓
-      {% else %}
-      ❌
-      {% endif %}
+    {% if entry.subscription %}
+    🗓
+    {% elsif entry.subscription == false %}
+    ❌
     {% else %}
-      ❓
+    ❓
     {% endif %}
     </td>
 
     <td>
-    {% if entry.cafe != None %}
-      {% if entry.cafe == true %}
-      ☕️
-      {% else %}
-      ❌
-      {% endif %}
+    {% if entry.cafe %}
+    ☕️
+    {% elsif entry.cafe == false %}
+    ❌
     {% else %}
-      ❓
+    ❓
     {% endif %}
     </td>
 
     <td>
-    {% if entry.courses != None %}
-      {% if entry.courses == true %}
-      🧑‍🎓
-      {% else %}
-      ❌
-      {% endif %}
+    {% if entry.courses %}
+    🧑‍🎓
+    {% elsif entry.courses == false %}
+    ❌
     {% else %}
-      ❓
+    ❓
     {% endif %}
     </td>
 
