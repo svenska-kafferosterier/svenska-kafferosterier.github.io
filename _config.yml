@@ -1,3 +1,5 @@
 title: Svenska kafferosterier
 url: "https://svenska-kafferosterier.rymdvarel.se"
 theme: minima
+plugins:
+  - jekyll-seo-tag
