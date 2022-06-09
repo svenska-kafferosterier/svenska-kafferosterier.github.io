@@ -56,8 +56,11 @@
   url: '[biglakecoffee.se](https://biglakecoffee.se)'
   webshop: true
 - name: Björklunds Kafferosteri
+  cafe: true
   comment: Med kaffebar i Seoul av alla ställen.
+  courses: true
   location: Västerås
+  subscription: false
   url: '[bjorklundskaffe.se](https://bjorklundskaffe.se)'
   webshop: true
 - name: Blekinge Kafferosteri
