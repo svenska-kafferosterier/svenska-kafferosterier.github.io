@@ -51,8 +51,8 @@
   cafe: true
   comment: Med rosteri, kaffebar och kaffekurser.
   courses: true
-  subscription: false
   location: Östersund
+  subscription: false
   url: '[biglakecoffee.se](https://biglakecoffee.se)'
   webshop: true
 - name: Björklunds Kafferosteri
