@@ -153,6 +153,7 @@
   eol: true
   location: Pinnarekulla
 - name: Etnia
+  eol: true
   comment: Kaffehandlare med mikrorosteri i Uppsala.
   location: Uppsala
   url: '[etnia.se](https://etnia.se)'
