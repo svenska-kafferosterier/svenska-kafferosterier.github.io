@@ -146,9 +146,9 @@
   comment: Etablerat 2009 med café på Mariatorget. Erbjuder kaffeprenumeration.
   courses: false
   location: Stockholm
-  subscription: true
   url: '[dropcoffee.com](https://dropcoffee.com)'
   webshop: true
+  subscription: true
 - name: Eemils Kafferosteri
   eol: true
   location: Pinnarekulla
