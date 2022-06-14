@@ -200,7 +200,7 @@
   location: Grästorp
   url: '[facebook.com](https://www.facebook.com/Grästorps-kafferosteri-113167557046261/)'
   webshop: false
-  courses: false
+  subscription: false
 - name: Guldrutans Kaffe
   cafe: false
   comment: Grundat 1946.
