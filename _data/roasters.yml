@@ -101,10 +101,13 @@
   location: Gävle
   url: '[cafesarria.com](https://cafesarria.com)'
 - name: Coffea Circulor
+  cafe: false
   comment: Bedriver forskning för att främja kaffeodlandet är också ett rosteri.
+  courses: false
   location: ❓
   url: '[coffeacirculor.com](https://coffeacirculor.com)'
   webshop: true
+  subscription: false
 - name: Conifer Coffee
   comment: Småskaligt på västkusten.
   location: Göteborg
