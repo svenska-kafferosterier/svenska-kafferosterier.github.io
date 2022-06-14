@@ -208,7 +208,7 @@
   location: Söderhamn
   url: '[guldrutan.com](http://guldrutan.com)'
   subscription: false
-  webshop: true
+  webshop: false
 - name: Gute Rosteri
   comment: Etablerat 2016 på Gotland.
   location: Barlingbo
