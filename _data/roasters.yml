@@ -110,6 +110,7 @@
   subscription: false
 - name: Conifer Coffee
   comment: Småskaligt på västkusten.
+  eol: true
   location: Göteborg
   url: '[conifer.coffee](https://conifer.coffee)'
   webshop: true
