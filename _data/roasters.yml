@@ -64,10 +64,13 @@
   url: '[bjorklundskaffe.se](https://bjorklundskaffe.se)'
   webshop: true
 - name: Blekinge Kafferosteri
+  cafe: false
   comment: Anordnar kaffeprovningar och har butik i Mörrum.
+  courses: true
   location: Mörrum
   url: '[blekinge.coffee](https://blekinge.coffee)'
   webshop: true
+  subscription: false
 - name: Borås Kafferosteri
   comment: Rostar bland annat den egna sorten Boråsblandning.
   location: Borås
