@@ -88,10 +88,13 @@
   webshop: true
   subscription: false
 - name: Cafego
+  cafe: false
   comment: Sikta högt, Cafegos kaffe odlas i alla fall på hög höjd.
+  courses: false
   location: Helsingborg
   url: '[cafego.se](https://cafego.se)'
   webshop: true
+  subscription: false
 - name: Café Sarria
   comment: Har tyvärr inte kaffe längre.
   eol: true
