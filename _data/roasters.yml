@@ -202,9 +202,12 @@
   webshop: false
   courses: false
 - name: Guldrutans Kaffe
+  cafe: false
   comment: Grundat 1946.
+  courses: false
   location: Söderhamn
-  url: '[guldrutan.se](https://guldrutan.se)'
+  url: '[guldrutan.com](http://guldrutan.com)'
+  subscription: false
   webshop: true
 - name: Gute Rosteri
   comment: Etablerat 2016 på Gotland.
