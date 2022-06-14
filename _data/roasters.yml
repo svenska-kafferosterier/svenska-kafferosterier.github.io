@@ -142,7 +142,9 @@
   comment: rostar numera hos Johan & Nyström
   eol: true
 - name: Drop Coffee
+  cafe: true
   comment: Etablerat 2009 med café på Mariatorget. Erbjuder kaffeprenumeration.
+  courses: false
   location: Stockholm
   subscription: true
   url: '[dropcoffee.com](https://dropcoffee.com)'
