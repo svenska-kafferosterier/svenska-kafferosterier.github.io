@@ -131,10 +131,13 @@
   webshop: true
   subscription: false
 - name: Da Matteo
+  cafe: true
   comment: Rosteri, cafér, bageri och event i Göteborg sen 1993.
+  courses: true
   location: Göteborg
   url: '[damatteo.se](https://damatteo.se)'
   webshop: true
+  subscription: false
 - name: Dellerhamn
   comment: rostar numera hos Johan & Nyström
   eol: true
