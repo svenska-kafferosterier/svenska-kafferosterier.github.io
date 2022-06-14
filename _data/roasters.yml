@@ -123,10 +123,13 @@
   webshop: true
   subscription: false
 - name: Cozo Coffee
+  cafe: false
   comment: Handrostat i Örebro.
+  courses: false
   location: Örebro
   url: '[cozocoffee.com](https://cozocoffee.com)'
   webshop: true
+  subscription: false
 - name: Da Matteo
   comment: Rosteri, cafér, bageri och event i Göteborg sen 1993.
   location: Göteborg
