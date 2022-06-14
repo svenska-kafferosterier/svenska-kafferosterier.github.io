@@ -80,10 +80,13 @@
   webshop: true
   subscription: false
 - name: Budhas Kafferosteri
+  cafe: false
   comment: Rostning av Budha Sutedja, anordnar kaffeprovningar för 5-20 personer.
+  courses: true
   location: Lycksele
   url: '[budhaskafferosteri.se](https://budhaskafferosteri.se)'
   webshop: true
+  subscription: false
 - name: Cafego
   comment: Sikta högt, Cafegos kaffe odlas i alla fall på hög höjd.
   location: Helsingborg
