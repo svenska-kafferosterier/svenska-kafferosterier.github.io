@@ -194,9 +194,13 @@
   webshop: true
   subscription: false
 - name: Grästorps Kafferosteri
+  cafe: false
   comment: Rostar, säljer och maler kaffebönor på Viktorlundsgatan 12.
+  courses: false
   location: Grästorp
-  url: ❓
+  url: '[facebook.com](https://www.facebook.com/Grästorps-kafferosteri-113167557046261/)'
+  webshop: false
+  courses: false
 - name: Guldrutans Kaffe
   comment: Grundat 1946.
   location: Söderhamn
