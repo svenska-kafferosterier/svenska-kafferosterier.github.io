@@ -115,10 +115,13 @@
   url: '[conifer.coffee](https://conifer.coffee)'
   webshop: true
 - name: Costas Rosteri
+  cafe: true
   comment: Rostas av Costas Pliatsikas i centrala Umeå.
+  courses: false
   location: Umeå
-  url: '[costasrosteri.se](https://costasrosteri.se)'
+  url: '[Facebook.com](https://www.facebook.com/costasofswedenthecoffeebar/)'
   webshop: true
+  subscription: false
 - name: Cozo Coffee
   comment: Handrostat i Örebro.
   location: Örebro
