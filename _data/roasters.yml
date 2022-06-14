@@ -159,10 +159,13 @@
   url: '[etnia.se](https://etnia.se)'
   webshop: true
 - name: Gamla Snickeriet Kafferosteri
+  cafe: false
   comment: Rosteri i ett gammalt snickeri, helt enkelt.
+  courses: false
   location: Säter
   url: '[gamlasnickeriet.se](https://gamlasnickeriet.se)'
   webshop: true
+  subscription: false
 - name: Gevalia
   comment: Etablerat på 1920-talet i Gävle.
   location: Gävle
