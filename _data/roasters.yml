@@ -72,10 +72,13 @@
   webshop: true
   subscription: false
 - name: Borås Kafferosteri
+  cafe: false
   comment: Rostar bland annat den egna sorten Boråsblandning.
+  courses: false
   location: Borås
   url: '[boraskafferosteri.se](https://boraskafferosteri.se)'
   webshop: true
+  subscription: false
 - name: Budhas Kafferosteri
   comment: Rostning av Budha Sutedja, anordnar kaffeprovningar för 5-20 personer.
   location: Lycksele
