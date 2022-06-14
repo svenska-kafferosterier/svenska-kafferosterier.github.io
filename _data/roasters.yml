@@ -167,10 +167,13 @@
   webshop: true
   subscription: false
 - name: Gevalia
+  cafe: false
   comment: Etablerat på 1920-talet i Gävle.
+  courses: false
   location: Gävle
   url: '[gevalia.se](https://gevalia.se)'
-  webshop: true
+  webshop: false
+  subscription: false
 - name: Gibsons Coffee
   cafe: false
   comment: Gibson Coffee erbjuder hantverksrostat specialkaffe!
