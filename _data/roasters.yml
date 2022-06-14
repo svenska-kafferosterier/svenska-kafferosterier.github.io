@@ -186,10 +186,13 @@
   eol: true
   location: Visby
 - name: Gringo Nordic Coffe Roasters
+  cafe: true
   comment: Rosteri i centrala Göteborg med egen odling i Colombia.
+  courses: false
   location: Göteborg
   url: '[gringonordic.se](https://gringonordic.se)'
   webshop: true
+  subscription: false
 - name: Grästorps Kafferosteri
   comment: Rostar, säljer och maler kaffebönor på Viktorlundsgatan 12.
   location: Grästorp
