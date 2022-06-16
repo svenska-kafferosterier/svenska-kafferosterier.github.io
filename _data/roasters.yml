@@ -218,9 +218,13 @@
   subscription: true
   webshop: true
 - name: Gårdsrosteriet
+  cafe: true
   comment: Rostning pågår vid foten av Vista Kulle, strax norr om Jönköping.
+  courses: false
   location: Huskvarna
-  url: '[gardsrosteriet.se](https://gardsrosteriet.se)'
+  url: '[gardsrosteriet.se](http://gardsrosteriet.se)'
+  subscription: false
+  webshop: false
 - name: Gåshaga Kafferosteri
   comment: Från att ha hyrt ut videokassetter till att bli rosteri, det är en twist
     som heter duga.
