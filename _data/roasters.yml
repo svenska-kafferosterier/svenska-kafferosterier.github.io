@@ -210,9 +210,12 @@
   subscription: false
   webshop: false
 - name: Gute Rosteri
+  cafe: false
   comment: Etablerat 2016 på Gotland.
+  courses: false
   location: Barlingbo
   url: '[guterosteri.se](https://guterosteri.se)'
+  subscription: true
   webshop: true
 - name: Gårdsrosteriet
   comment: Rostning pågår vid foten av Vista Kulle, strax norr om Jönköping.
