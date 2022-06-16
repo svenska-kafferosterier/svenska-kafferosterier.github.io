@@ -226,10 +226,14 @@
   subscription: false
   webshop: false
 - name: Gåshaga Kafferosteri
+  cafe: false
   comment: Från att ha hyrt ut videokassetter till att bli rosteri, det är en twist
+  courses: true
     som heter duga.
   location: Lidingö
   url: '[gashagarosteri.com](https://gashagarosteri.com)'
+  subscription: false
+  webshop: true
 - name: Hälla Kafferosteri
   comment: Började som ett lunchcafé som rostade kaffe, nu är de ett rosteri som har
     lunchcafé.
