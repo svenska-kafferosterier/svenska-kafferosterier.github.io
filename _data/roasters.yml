@@ -235,11 +235,14 @@
   subscription: false
   webshop: true
 - name: Hälla Kafferosteri
+  cafe: true
   comment: Började som ett lunchcafé som rostade kaffe, nu är de ett rosteri som har
     lunchcafé.
+  courses: false
   location: Västerås
   url: '[hallakafferosteri.com](https://hallakafferosteri.com)'
   webshop: true
+  subscription: false
 - name: Ingarö Rosteri
   location: Ingarö
   url: '[ingarorosteri.se](https://ingarorosteri.se)'
