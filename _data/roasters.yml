@@ -252,10 +252,13 @@
   url: '[ingarorosteri.se](https://ingarorosteri.se)'
   webshop: true
 - name: Johan & Nyström
+  cafe: true
+  comment: Beställ Johan & Nyströms kaffe här.
+  courses: true
   location: Skogås
+  subscription: false
   url: '[johanochnystrom.se](https://johanochnystrom.se)'
   webshop: true
-  comment: Beställ Johan & Nyströms kaffe här.
 - name: Järna Rosteri
   comment: Rostar ekologiskt kaffe och erjuder barista-utbildningar.
   location: Järna
