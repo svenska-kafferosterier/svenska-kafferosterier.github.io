@@ -244,10 +244,13 @@
   webshop: true
   subscription: false
 - name: Ingarö Rosteri
+  cafe: false
+  comment: Etablerat 2015 i Stockholms skärgård.
+  courses: false
   location: Ingarö
+  subscription: false
   url: '[ingarorosteri.se](https://ingarorosteri.se)'
   webshop: true
-  comment: Etablerat 2015 i Stockholms skärgård.
 - name: Johan & Nyström
   location: Skogås
   url: '[johanochnystrom.se](https://johanochnystrom.se)'
