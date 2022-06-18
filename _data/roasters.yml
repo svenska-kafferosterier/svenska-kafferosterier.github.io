@@ -265,9 +265,12 @@
   location: Järna
   url: '[jarnarosteri.se](https://jarnarosteri.se)'
 - name: Kaffemästaren
+  cafe: true
   comment: Med butik för både kaffe och utrustning i centrala Örebro.
+  courses: true
   location: Örebro
   url: '[kaffemastaren.se](https://kaffemastaren.se)'
+  subscription: false
   webshop: true
 - name: Kafferosteriet Götheborg
   comment: Med butik i Jörlanda utanför Göteborg.
