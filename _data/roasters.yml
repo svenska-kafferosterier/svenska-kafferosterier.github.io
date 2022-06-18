@@ -261,6 +261,7 @@
   webshop: true
 - name: Järna Rosteri
   comment: Rostar ekologiskt kaffe och erjuder barista-utbildningar.
+  eol: true
   location: Järna
   url: '[jarnarosteri.se](https://jarnarosteri.se)'
 - name: Kaffemästaren
