@@ -326,10 +326,13 @@
   webshop: true
   subscription: false
 - name: Koppi
+  cafe: false
   comment: Etablerat 2007 med eget kafé.
+  courses: false
   location: Helsingborg
   url: '[koppi.se](https://koppi.se)'
   webshop: true
+  subscription: false
 - name: K.W. Karlberg Kafferosteri
   comment: Stockholms äldska kafferosteri.
   location: Saltsjö-boo
