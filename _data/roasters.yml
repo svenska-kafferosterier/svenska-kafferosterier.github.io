@@ -284,6 +284,7 @@
   eol: true
   location: Gäddviken
 - name: Kafferosteriet Koppar
+  cafe: false
   comment: Du får jättegärna komma förbi!
   courses: true
   location: Tyresö
