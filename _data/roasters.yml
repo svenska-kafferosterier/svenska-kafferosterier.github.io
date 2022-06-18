@@ -339,6 +339,7 @@
   courses: false
   location: Saltsjö-boo
   url: '[karlbergskafferosteri.se](https://www.karlbergskafferosteri.se)'
+  webshop: true
   subscription: false
 - name: Lidingö Rosteri
   comment: Rostar med en Diedrich.
