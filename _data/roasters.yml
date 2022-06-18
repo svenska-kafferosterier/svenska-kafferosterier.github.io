@@ -292,8 +292,11 @@
   url: '[kafferosterietkoppar.se](https://kafferosterietkoppar.se)'
   webshop: true
 - name: Kafferäven Per Norby
+  cafe: false
   comment: Etablerat 2013.
+  courses: false
   location: Göteborg
+  subscription: true
   url: '[kafferaven.se](https://kafferaven.se)'
   webshop: true
 - name: Kahls Kaffe
