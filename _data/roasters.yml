@@ -334,9 +334,12 @@
   webshop: true
   subscription: false
 - name: K.W. Karlberg Kafferosteri
+  cafe: false
   comment: Stockholms äldska kafferosteri.
+  courses: false
   location: Saltsjö-boo
-  url: '[aromakaffe.se](https://aromakaffe.se)'
+  url: '[karlbergskafferosteri.se](https://www.karlbergskafferosteri.se)'
+  subscription: false
 - name: Lidingö Rosteri
   comment: Rostar med en Diedrich.
   location: Stockholm
