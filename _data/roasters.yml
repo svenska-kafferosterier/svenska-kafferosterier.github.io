@@ -300,11 +300,14 @@
   url: '[kafferaven.se](https://kafferaven.se)'
   webshop: true
 - name: Kahls Kaffe
+  cafe: false
   comment: Etablerat 1911 och har både te och kaffe i sortimentet. Beställ Kahls Kaffe
     här.
+  courses: true
   location: Västra Frölunda
   url: '[kahls.se](https://kahls.se)'
   webshop: true
+  subscription: false
 - name: Kaprifolet
   comment: Rostar hos Gringo Nordic Coffee Roasters, skickar fraktfritt i Götet.
   location: Väröbacka
