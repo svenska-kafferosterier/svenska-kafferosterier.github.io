@@ -309,10 +309,13 @@
   webshop: true
   subscription: false
 - name: Kaprifolet
+  cafe: false
   comment: Rostar hos Gringo Nordic Coffee Roasters, skickar fraktfritt i Götet.
+  courses: false
   location: Väröbacka
   url: '[kaprifolet.se](https://kaprifolet.se)'
   webshop: true
+  subscription: false
 - name: Kersh Kafferosteri
     kaffe här.
   comment: Med restaurang på Hornstull och en cykeldriven ”brew bar”. Beställ Kersh
