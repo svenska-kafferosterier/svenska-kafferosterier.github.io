@@ -273,8 +273,11 @@
   subscription: false
   webshop: true
 - name: Kafferosteriet Götheborg
+  cafe: false
   comment: Med butik i Jörlanda utanför Göteborg.
+  courses: false
   location: Jörlanda
+  subscription: false
   url: '[www.kafferosterietgotheborg.se](https://www.kafferosterietgotheborg.se)'
   webshop: true
 - name: Kafferosteriet / Cirkelkaffe
