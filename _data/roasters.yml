@@ -464,8 +464,11 @@
   subscription: false
   webshop: true
 - name: Rävgrytets Kafferosteri
+  cafe: false
   comment: Med ett kaffe som heter Support your Locals, gör det!
+  courses: false
   location: Sågmyra Herrgård
+  subscription: false
   url: '[ravgrytet.se](https://ravgrytet.se)'
   webshop: true
 - name: Sandby Kafferosteri
