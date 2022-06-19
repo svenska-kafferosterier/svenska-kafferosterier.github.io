@@ -432,9 +432,13 @@
   url: '[nordiskakafferosteriet.se](https://nordiskakafferosteriet.se)'
   webshop: true
 - name: Ostindia Rosteriet
+  cafe: false
   comment: Säljer till företag, restauranger och hotell och caféer.
+  courses: false
   location: Vallentuna
+  subscription: false
   url: '[ostindia.se](https://ostindia.se)'
+  webshop: true
 - name: Peters Kafferosteri
   comment: Seglare & kafferostare
   location: Torslanda
