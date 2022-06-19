@@ -533,9 +533,13 @@
   url: '[stockholmroast.se](https://stockholmroast.se)'
   webshop: true
 - name: Tiveds Kafferosteri
-  comment: Med café vid Tividens Nationalpark
+  cafe: false
+  comment: Även outdoorfika.se
+  courses: false
   location: Tiveden
+  subscription: false
   url: '[tivedskafferosteri.se](https://tivedskafferosteri.se)'
+  webshop: true
 - name: The Broker Coffee Roastery
   comment: Etablerat 2014 med rosteri och kaffebar på ett campus-område i Uppsala.
   location: Uppsala
