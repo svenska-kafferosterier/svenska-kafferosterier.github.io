@@ -512,6 +512,7 @@
   url: '[solde.se](https://solde.se)'
   webshop: true
 - name: Solo Kaffe
+  eol: true
   comment: Etablerat 1898.
   location: Helsingborg
   url: '[solokaffe.se](https://solokaffe.se)'
