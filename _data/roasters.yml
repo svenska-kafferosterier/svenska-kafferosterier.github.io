@@ -396,9 +396,13 @@
   eol: true
   location: Kaffe
 - name: Meltzers Kafferosteri Warberg
+  cafe: false
   comment: Med kaffet Boxten som sägs gör sig extra bra i skogen.
   location: Varberg
-  url: '[meltzerskaffe.se](https://meltzerskaffe.se)'
+  courses: false
+  subscription: false
+  url: '[meltzerskaffe.se](http://meltzerskaffe.se)'
+  webshop: true
 - name: Mogen Coffee
 - name: Muttley & Jack’s Coffee Roasters
   comment: Etablerat 2017 med kaffeprenumeration.
