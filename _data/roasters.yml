@@ -404,6 +404,8 @@
   url: '[meltzerskaffe.se](http://meltzerskaffe.se)'
   webshop: true
 - name: Mogen Coffee
+  comment: Seems to be the same as Gamla Snickeriet
+  eol: true
 - name: Muttley & Jack’s Coffee Roasters
   comment: Etablerat 2017 med kaffeprenumeration.
   location: Vaxholm
