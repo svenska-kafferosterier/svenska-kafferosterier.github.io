@@ -581,6 +581,7 @@
   url: '[zoegas.se](https://zoegas.se)'
   webshop: false
 - name: Åre Kafferosteri
+  cafe: true
   comment: Etablerat maj 2007. Har kaffeprenumeration, utbildningar och är öppet för
     bokade besök.
   courses: true
