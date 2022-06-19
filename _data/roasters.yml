@@ -573,9 +573,13 @@
   eol: true
   location: Waxholm
 - name: Zoégas
+  cafe: false
   comment: Etablerat 1886.
+  courses: false
   location: Helsingborg
+  subscription: false
   url: '[zoegas.se](https://zoegas.se)'
+  webshop: false
 - name: Åre Kafferosteri
   comment: Etablerat maj 2007. Har kaffeprenumeration, utbildningar och är öppet för
     bokade besök.
