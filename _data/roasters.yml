@@ -562,6 +562,7 @@
   url: '[tornlindskafferosteri.com](https://tornlindskafferosteri.com)'
   webshop: true
 - name: Uppsala Kafferosteri
+  cafe: false
   comment: Etablerat 2017. Har kaffeprenumerationer och fokus på mörkrostat.
   courses: true
   location: Uppsala
