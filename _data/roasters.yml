@@ -496,9 +496,13 @@
   url: '[sloingekafferosteri.se](https://sloingekafferosteri.se)'
   webshop: true
 - name: Smögens Kafferosteri
+  cafe: false
   comment: Etablerat 2018 och så vitt jag vet sveriges enda kafferosteri i en sjöbod.
+  courses: false
   location: Smögen
+  subscription: false
   url: '[smogenskafferosteri.se](https://smogenskafferosteri.se)'
+  webshop: true
 - name: Solde Kaffe
   comment: Rosteri och kaffebar sedan 2006.
   location: Malmö
