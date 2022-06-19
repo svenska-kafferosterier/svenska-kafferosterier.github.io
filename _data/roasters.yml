@@ -427,6 +427,7 @@
   location: Stockholm
 - name: Nordiska Kafferosteriet
   comment: Rostat kaffe sen 2011.
+  eol: true
   location: Mölnlycke
   url: '[nordiskakafferosteriet.se](https://nordiskakafferosteriet.se)'
   webshop: true
