@@ -551,6 +551,7 @@
 - name: The Beautiful Bean
   comment: Rostaren bakom The Beautiful Bean har flyttat till USA men deras Darkside
     Blend rostas fortfarande i Sverige av Muttley and Jack’s.
+  eol: true
   location: Uppsala
 - name: Törnlinds Kafferosteri
   comment: Specialkaffe med passion rostat på en Diedrich IR-12
