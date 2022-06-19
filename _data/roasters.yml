@@ -342,9 +342,13 @@
   webshop: true
   subscription: false
 - name: Lidingö Rosteri
+  cafe: false
   comment: Rostar med en Diedrich.
+  courses: false
   location: Stockholm
   url: '[lidingorosteri.se](https://lidingorosteri.se)'
+  webshop: false
+  subscription: false
 - name: Lilla Kafferosteriet
   comment: Har rostat kaffe i centrala Malmö sen 2006, trivsamt café med kunniga baristor.
   location: Malmö
