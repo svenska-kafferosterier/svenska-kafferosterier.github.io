@@ -440,9 +440,13 @@
   url: '[ostindia.se](https://ostindia.se)'
   webshop: true
 - name: Peters Kafferosteri
+  cafe: false
   comment: Seglare & kafferostare
+  courses: false
   location: Torslanda
+  subscription: false
   url: '[peterskafferosteri.se](https://peterskafferosteri.se)'
+  webshop: true
 - name: Qvarsebo Kaffe
   comment: Caféer och rosteri utanför Kolmården.
   location: Kvarsebo
