@@ -377,8 +377,11 @@
   url: '[lovecoffee.se](https://lovecoffee.se)'
   webshop: true
 - name: Lykke Kaffegårdar
+  cafe: true
   comment: Fem kaffegårdar runt världen och rosteri i Hökarängen.
+  courses: false
   location: Farsta
+  subscription: true
   url: '[lykkegardar.se](https://lykkegardar.se)'
   webshop: true
 - name: Löfbergs
