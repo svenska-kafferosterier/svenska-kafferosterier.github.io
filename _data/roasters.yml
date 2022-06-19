@@ -582,9 +582,8 @@
   webshop: false
 - name: Åre Kafferosteri
   cafe: true
-  comment: Etablerat maj 2007. Har kaffeprenumeration, utbildningar och är öppet för
-    bokade besök.
-  courses: true
+  comment: Etablerat maj 2007. Har kaffeprenumeration och är öppet för bokade besök.
+  courses: false
   location: Järpen
   subscription: true
   url: '[arekafferosteri.se](https://arekafferosteri.se)'
