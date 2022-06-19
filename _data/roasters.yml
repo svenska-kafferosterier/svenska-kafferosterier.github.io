@@ -504,8 +504,11 @@
   url: '[smogenskafferosteri.se](https://smogenskafferosteri.se)'
   webshop: true
 - name: Solde Kaffe
+  cafe: true
   comment: Rosteri och kaffebar sedan 2006.
+  courses: false
   location: Malmö
+  subscription: false
   url: '[solde.se](https://solde.se)'
   webshop: true
 - name: Solo Kaffe
