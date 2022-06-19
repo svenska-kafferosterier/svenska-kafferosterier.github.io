@@ -480,9 +480,13 @@
   url: '[sandbykafferosteri.se](https://sandbykafferosteri.se)'
   webshop: false
 - name: Simons Rosteri Bageri
+  cafe: true
   comment: Kafferosteri, hantverksbageri och café.
+  courses: true
   location: Linköping
+  subscription: false
   url: '[simonsrosteribageri.se](https://simonsrosteribageri.se)'
+  webshop: true
 - name: Slöinge Kafferosteri
   comment: Etablerat 2013, erbjuder kaffeprenumeration.
   location: Slöinge
