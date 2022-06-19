@@ -369,7 +369,9 @@
   eol: true
   location: Skivarp
 - name: Love Coffee
+  cafe: true
   comment: Har kaffeprenumeration och en kaffebar på Klostergatan i Lund.
+  courses: false
   location: Lund
   subscription: true
   url: '[lovecoffee.se](https://lovecoffee.se)'
