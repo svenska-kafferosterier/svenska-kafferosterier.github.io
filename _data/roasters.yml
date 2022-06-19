@@ -541,8 +541,11 @@
   url: '[tivedskafferosteri.se](https://tivedskafferosteri.se)'
   webshop: true
 - name: The Broker Coffee Roastery
+  cafe: true
   comment: Etablerat 2014 med rosteri och kaffebar på ett campus-område i Uppsala.
+  courses: false
   location: Uppsala
+  courses: false
   url: '[thebrokercoffee.com](https://thebrokercoffee.com)'
   webshop: true
 - name: The Beautiful Bean
