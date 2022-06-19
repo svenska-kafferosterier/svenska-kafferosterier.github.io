@@ -488,7 +488,9 @@
   url: '[simonsrosteribageri.se](https://simonsrosteribageri.se)'
   webshop: true
 - name: Slöinge Kafferosteri
+  cafe: false
   comment: Etablerat 2013, erbjuder kaffeprenumeration.
+  courses: true
   location: Slöinge
   subscription: true
   url: '[sloingekafferosteri.se](https://sloingekafferosteri.se)'
