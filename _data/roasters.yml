@@ -350,10 +350,13 @@
   webshop: false
   subscription: false
 - name: Lilla Kafferosteriet
+  cafe: true
   comment: Har rostat kaffe i centrala Malmö sen 2006, trivsamt café med kunniga baristor.
+  courses: true
   location: Malmö
   url: '[lillakafferosteriet.se](https://lillakafferosteriet.se)'
   webshop: true
+  subscription: false
 - name: Lindvalls Kaffe
   comment: Rosteri i femte generationen i centrala Uppsala.
   location: Uppsala
