@@ -406,6 +406,14 @@
 - name: Mogen Coffee
   comment: Seems to be the same as Gamla Snickeriet
   eol: true
+- name: Morgon
+  cafe: false
+  comment: Grundat sommaren 2018
+  location: Göteborg
+  courses: false
+  subscription: true
+  url: '[www.morgoncoffeeroasters.com](https://www.morgoncoffeeroasters.com)'
+  webshop: true
 - name: Muttley & Jack’s Coffee Roasters
   comment: Etablerat 2017 med kaffeprenumeration.
   location: Vaxholm
