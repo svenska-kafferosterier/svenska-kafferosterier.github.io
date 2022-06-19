@@ -448,9 +448,13 @@
   url: '[peterskafferosteri.se](https://peterskafferosteri.se)'
   webshop: true
 - name: Qvarsebo Kaffe
+  cafe: true
   comment: Caféer och rosteri utanför Kolmården.
+  courses: true
   location: Kvarsebo
   url: '[qvarsebokaffe.se](https://qvarsebokaffe.se)'
+  subscription: false
+  webshop: true
 - name: Rosteriet Vadstena
   comment: Familjeägt och drivet sedan 2015.
   location: Vadstena
