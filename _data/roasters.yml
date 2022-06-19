@@ -385,9 +385,13 @@
   url: '[lykkegardar.se](https://lykkegardar.se)'
   webshop: true
 - name: Löfbergs
+  cafe: true
   comment: Rosteri med egen arena. Kaffebar i Karlstad och Stockholm.
+  courses: false
+  subscription: true
   location: Karlstad
   url: '[lofbergs.se](https://lofbergs.se)'
+  webshop: true
 - name: Mauritz
   eol: true
   location: Kaffe
