@@ -358,9 +358,13 @@
   webshop: true
   subscription: false
 - name: Lindvalls Kaffe
+  cafe: false
   comment: Rosteri i femte generationen i centrala Uppsala.
+  courses: false
   location: Uppsala
-  url: '[lindvallskaffe.se](https://lindvallskaffe.se)'
+  url: '[lindvallskaffe.se](http://lindvallskaffe.se)'
+  webshop: false
+  subscription: false
 - name: Lomberg
   eol: true
   location: Skivarp
