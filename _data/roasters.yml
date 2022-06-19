@@ -456,9 +456,12 @@
   subscription: false
   webshop: true
 - name: Rosteriet Vadstena
+  cafe: false
   comment: Familjeägt och drivet sedan 2015.
+  courses: false
   location: Vadstena
   url: '[rosterietvadstena.se](https://rosterietvadstena.se)'
+  subscription: false
   webshop: true
 - name: Rävgrytets Kafferosteri
   comment: Med ett kaffe som heter Support your Locals, gör det!
