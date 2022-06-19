@@ -415,7 +415,9 @@
   url: '[www.morgoncoffeeroasters.com](https://www.morgoncoffeeroasters.com)'
   webshop: true
 - name: Muttley & Jack’s Coffee Roasters
+  cafe: false
   comment: Etablerat 2017 med kaffeprenumeration.
+  courses: true
   location: Vaxholm
   subscription: true
   url: '[muttleyandjacks.se](https://muttleyandjacks.se)'
