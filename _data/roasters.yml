@@ -517,14 +517,19 @@
   location: Helsingborg
   url: '[solokaffe.se](https://solokaffe.se)'
 - name: Stadens Kafferosteri
+  cafe: false
   comment: Fixar kaffekurser, uthyrning av baristor och så klart kaffe.
   courses: true
   location: Ulricehamn
+  subscription: false
   url: '[stadenskaffe.se](https://stadenskaffe.se)'
-  webshop: true
+  webshop: false
 - name: Stockholmsroast
+  cafe: false
   comment: Etablerat 2011.
+  courses: false
   location: Stockholm
+  subscription: false
   url: '[stockholmroast.se](https://stockholmroast.se)'
   webshop: true
 - name: Tiveds Kafferosteri
