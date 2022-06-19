@@ -554,9 +554,13 @@
   eol: true
   location: Uppsala
 - name: Törnlinds Kafferosteri
+  cafe: false
   comment: Specialkaffe med passion rostat på en Diedrich IR-12
+  courses: false
+  subscription: false
   location: Sala
   url: '[tornlindskafferosteri.com](https://tornlindskafferosteri.com)'
+  webshop: true
 - name: Uppsala Kafferosteri
   comment: Etablerat 2017. Har kaffeprenumerationer och fokus på mörkrostat.
   courses: true
