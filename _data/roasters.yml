@@ -532,6 +532,14 @@
   subscription: false
   url: '[stockholmroast.se](https://stockholmroast.se)'
   webshop: true
+- name: Swerl
+  cafe: true
+  comment: Rostar kaffe, säljer bryggutrustning på nätet och har en Mercedes-buss på Skrea Strand där dom serverar kaffe, frukost och glutenfria bakverk.
+  courses: false
+  location: Falkenberg
+  subscription: false
+  url: '[swerl.se](https://swerl.se)'
+  webshop: true
 - name: Tiveds Kafferosteri
   cafe: false
   comment: Även outdoorfika.se
