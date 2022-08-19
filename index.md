@@ -3,12 +3,15 @@ layout: default
 ---
 En gång i tiden fanns denna lista på Kaffebryggan.com som numer enbart är nåbar via [web.archive.org](https://web.archive.org/web/20210812131008/https://www.kaffebryggan.com/svenska-kafferosterier/). [PRs are welcome - help us fill the blanks (❓)!](https://github.com/svenska-kafferosterier/svenska-kafferosterier.github.io)
 
+<script src="assets/js/sorttable.js"></script>
+
 {% assign loops = "main,eol" | split: "," -%}
 {% for loop in loops -%}
   {% if loop == "eol" -%}
 ### EOL
   {% endif -%}
-<table>
+
+<table class="sortable">
   <tr>
     <th>Namn</th>
     <th>Plats (📍)</th>
