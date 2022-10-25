@@ -532,6 +532,14 @@
   subscription: false
   url: '[stockholmroast.se](https://stockholmroast.se)'
   webshop: true
+- name: Stoked Coffee Roasters
+  cafe: false
+  comment: Microrosteri - endast små batcher.
+  courses: false
+  location: Piteå
+  subscription: false
+  url: '[getstoked.coffee](https://getstoked.coffee)'
+  webshop: true
 - name: Swerl
   cafe: true
   comment: Rostar kaffe, säljer bryggutrustning på nätet och har en Mercedes-buss på Skrea Strand där dom serverar kaffe, frukost och glutenfria bakverk.
