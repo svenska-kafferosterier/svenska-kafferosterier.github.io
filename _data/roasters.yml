@@ -545,7 +545,7 @@
   comment: Rostar kaffe, säljer bryggutrustning på nätet och har en Mercedes-buss på Skrea Strand där dom serverar kaffe, frukost och glutenfria bakverk.
   courses: false
   location: Falkenberg
-  subscription: false
+  subscription: true
   url: swerl.se
   webshop: true
 - name: Tiveds Kafferosteri
