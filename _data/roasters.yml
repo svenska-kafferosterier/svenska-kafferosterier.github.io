@@ -21,7 +21,7 @@
   courses: false
   location: Rindö
   subscription: false
-  url: '[archipelago.coffee](https://archipelago.coffee)'
+  url: archipelago.coffee
   webshop: true
 - name: Arvid Nordquist
   cafe: false
@@ -29,7 +29,7 @@
   courses: false
   location: Solna
   subscription: false
-  url: '[arvidnordquist.se](https://arvidnordquist.se)'
+  url: arvidnordquist.se
   webshop: false
 - name: Balck Coffee
   cafe: false
@@ -37,7 +37,7 @@
   courses: false
   location: Kalmar
   subscription: true
-  url: '[balckcoffee.se](https://balckcoffee.se)'
+  url: balckcoffee.se
   webshop: true
 - name: Bergstrands Kaffferosteri
   cafe: false
@@ -45,7 +45,7 @@
   courses: false
   location: Göteborg
   subscription: false
-  url: '[bergstrands.se](https://bergstrands.se)'
+  url: bergstrands.se
   webshop: true
 - name: Big Lake Coffee Roasters
   cafe: true
@@ -53,7 +53,7 @@
   courses: true
   location: Östersund
   subscription: false
-  url: '[biglakecoffee.se](https://biglakecoffee.se)'
+  url: biglakecoffee.se
   webshop: true
 - name: Björklunds Kafferosteri
   cafe: true
@@ -61,14 +61,14 @@
   courses: true
   location: Västerås
   subscription: false
-  url: '[bjorklundskaffe.se](https://bjorklundskaffe.se)'
+  url: bjorklundskaffe.se
   webshop: true
 - name: Blekinge Kafferosteri
   cafe: false
   comment: Anordnar kaffeprovningar och har butik i Mörrum.
   courses: true
   location: Mörrum
-  url: '[blekinge.coffee](https://blekinge.coffee)'
+  url: blekinge.coffee
   webshop: true
   subscription: false
 - name: Borås Kafferosteri
@@ -76,7 +76,7 @@
   comment: Rostar bland annat den egna sorten Boråsblandning.
   courses: false
   location: Borås
-  url: '[boraskafferosteri.se](https://boraskafferosteri.se)'
+  url: boraskafferosteri.se
   webshop: true
   subscription: false
 - name: Budhas Kafferosteri
@@ -84,7 +84,7 @@
   comment: Rostning av Budha Sutedja, anordnar kaffeprovningar för 5-20 personer.
   courses: true
   location: Lycksele
-  url: '[budhaskafferosteri.se](https://budhaskafferosteri.se)'
+  url: budhaskafferosteri.se
   webshop: true
   subscription: false
 - name: Cafego
@@ -92,34 +92,34 @@
   comment: Sikta högt, Cafegos kaffe odlas i alla fall på hög höjd.
   courses: false
   location: Helsingborg
-  url: '[cafego.se](https://cafego.se)'
+  url: cafego.se
   webshop: true
   subscription: false
 - name: Café Sarria
   comment: Har tyvärr inte kaffe längre.
   eol: true
   location: Gävle
-  url: '[cafesarria.com](https://cafesarria.com)'
+  url: cafesarria.com
 - name: Coffea Circulor
   cafe: false
   comment: Bedriver forskning för att främja kaffeodlandet är också ett rosteri.
   courses: false
   location: ❓
-  url: '[coffeacirculor.com](https://coffeacirculor.com)'
+  url: coffeacirculor.com
   webshop: true
   subscription: false
 - name: Conifer Coffee
   comment: Småskaligt på västkusten.
   eol: true
   location: Göteborg
-  url: '[conifer.coffee](https://conifer.coffee)'
+  url: conifer.coffee
   webshop: true
 - name: Costas Rosteri
   cafe: true
   comment: Rostas av Costas Pliatsikas i centrala Umeå.
   courses: false
   location: Umeå
-  url: '[Facebook.com](https://www.facebook.com/costasofswedenthecoffeebar/)'
+  url: facebook.com/costasofswedenthecoffeebar/
   webshop: true
   subscription: false
 - name: Cozo Coffee
@@ -127,7 +127,7 @@
   comment: Handrostat i Örebro.
   courses: false
   location: Örebro
-  url: '[cozocoffee.com](https://cozocoffee.com)'
+  url: cozocoffee.com
   webshop: true
   subscription: false
 - name: Da Matteo
@@ -135,7 +135,7 @@
   comment: Rosteri, cafér, bageri och event i Göteborg sen 1993.
   courses: true
   location: Göteborg
-  url: '[damatteo.se](https://damatteo.se)'
+  url: damatteo.se
   webshop: true
   subscription: false
 - name: Dellerhamn
@@ -146,7 +146,7 @@
   comment: Etablerat 2009 med café på Mariatorget. Erbjuder kaffeprenumeration.
   courses: false
   location: Stockholm
-  url: '[dropcoffee.com](https://dropcoffee.com)'
+  url: dropcoffee.com
   webshop: true
   subscription: true
 - name: Eemils Kafferosteri
@@ -156,14 +156,14 @@
   eol: true
   comment: Kaffehandlare med mikrorosteri i Uppsala.
   location: Uppsala
-  url: '[etnia.se](https://etnia.se)'
+  url: etnia.se
   webshop: true
 - name: Gamla Snickeriet Kafferosteri
   cafe: false
   comment: Rosteri i ett gammalt snickeri, helt enkelt.
   courses: false
   location: Säter
-  url: '[gamlasnickeriet.se](https://gamlasnickeriet.se)'
+  url: gamlasnickeriet.se
   webshop: true
   subscription: false
 - name: Gevalia
@@ -171,7 +171,7 @@
   comment: Etablerat på 1920-talet i Gävle.
   courses: false
   location: Gävle
-  url: '[gevalia.se](https://gevalia.se)'
+  url: gevalia.se
   webshop: false
   subscription: false
 - name: Gibsons Coffee
@@ -180,7 +180,7 @@
   courses: false
   location: Jonsered
   subscription: false
-  url: '[gibsonscoffee.se](https://gibsonscoffee.se/)'
+  url: gibsonscoffee.se
   webshop: true
 - name: Gotlands Kafferosteri
   eol: true
@@ -190,7 +190,7 @@
   comment: Rosteri i centrala Göteborg med egen odling i Colombia.
   courses: false
   location: Göteborg
-  url: '[gringonordic.se](https://gringonordic.se)'
+  url: gringonordic.se
   webshop: true
   subscription: false
 - name: Grästorps Kafferosteri
@@ -198,7 +198,7 @@
   comment: Rostar, säljer och maler kaffebönor på Viktorlundsgatan 12.
   courses: false
   location: Grästorp
-  url: '[facebook.com](https://www.facebook.com/Grästorps-kafferosteri-113167557046261/)'
+  url: facebook.com/Grästorps-kafferosteri-113167557046261/
   webshop: false
   subscription: false
 - name: Guldrutans Kaffe
@@ -206,7 +206,7 @@
   comment: Grundat 1946.
   courses: false
   location: Söderhamn
-  url: '[guldrutan.com](http://guldrutan.com)'
+  url: shop.guldrutan.com
   subscription: false
   webshop: false
 - name: Gute Rosteri
@@ -214,7 +214,7 @@
   comment: Etablerat 2016 på Gotland.
   courses: false
   location: Barlingbo
-  url: '[guterosteri.se](https://guterosteri.se)'
+  url: guterosteri.se
   subscription: true
   webshop: true
 - name: Gårdsrosteriet
@@ -222,7 +222,7 @@
   comment: Rostning pågår vid foten av Vista Kulle, strax norr om Jönköping.
   courses: false
   location: Huskvarna
-  url: '[gardsrosteriet.se](http://gardsrosteriet.se)'
+  url: gardsrosteriet.se
   subscription: false
   webshop: false
 - name: Gåshaga Kafferosteri
@@ -231,7 +231,7 @@
   courses: true
     som heter duga.
   location: Lidingö
-  url: '[gashagarosteri.com](https://gashagarosteri.com)'
+  url: gashagarosteri.com
   subscription: false
   webshop: true
 - name: Hälla Kafferosteri
@@ -240,7 +240,7 @@
     lunchcafé.
   courses: false
   location: Västerås
-  url: '[hallakafferosteri.com](https://hallakafferosteri.com)'
+  url: hallakafferosteri.com
   webshop: true
   subscription: false
 - name: Ingarö Rosteri
@@ -249,7 +249,7 @@
   courses: false
   location: Ingarö
   subscription: false
-  url: '[ingarorosteri.se](https://ingarorosteri.se)'
+  url: ingarorosteri.se
   webshop: true
 - name: Johan & Nyström
   cafe: true
@@ -257,19 +257,19 @@
   courses: true
   location: Skogås
   subscription: false
-  url: '[johanochnystrom.se](https://johanochnystrom.se)'
+  url: johanochnystrom.se
   webshop: true
 - name: Järna Rosteri
   comment: Rostar ekologiskt kaffe och erjuder barista-utbildningar.
   eol: true
   location: Järna
-  url: '[jarnarosteri.se](https://jarnarosteri.se)'
+  url: jarnarosteri.se
 - name: Kaffemästaren
   cafe: true
   comment: Med butik för både kaffe och utrustning i centrala Örebro.
   courses: true
   location: Örebro
-  url: '[kaffemastaren.se](https://kaffemastaren.se)'
+  url: kaffemastaren.se
   subscription: false
   webshop: true
 - name: Kafferosteriet Götheborg
@@ -278,7 +278,7 @@
   courses: false
   location: Jörlanda
   subscription: false
-  url: '[www.kafferosterietgotheborg.se](https://www.kafferosterietgotheborg.se)'
+  url: kafferosterietgotheborg.se
   webshop: true
 - name: Kafferosteriet / Cirkelkaffe
   eol: true
@@ -289,7 +289,7 @@
   courses: true
   location: Tyresö
   subscription: true
-  url: '[kafferosterietkoppar.se](https://kafferosterietkoppar.se)'
+  url: kafferosterietkoppar.se
   webshop: true
 - name: Kafferäven Per Norby
   cafe: false
@@ -297,7 +297,7 @@
   courses: false
   location: Göteborg
   subscription: true
-  url: '[kafferaven.se](https://kafferaven.se)'
+  url: kafferaven.se
   webshop: true
 - name: Kahls Kaffe
   cafe: false
@@ -305,7 +305,7 @@
     här.
   courses: true
   location: Västra Frölunda
-  url: '[kahls.se](https://kahls.se)'
+  url: kahls.se
   webshop: true
   subscription: false
 - name: Kaprifolet
@@ -313,7 +313,7 @@
   comment: Rostar hos Gringo Nordic Coffee Roasters, skickar fraktfritt i Götet.
   courses: false
   location: Väröbacka
-  url: '[kaprifolet.se](https://kaprifolet.se)'
+  url: kaprifolet.se
   webshop: true
   subscription: false
 - name: Kersh Kafferosteri
@@ -322,7 +322,7 @@
     kaffe här.
   courses: false
   location: Stockholm
-  url: '[kershkafferosteri.se](https://kershkafferosteri.se)'
+  url: kershkafferosteri.se
   webshop: true
   subscription: false
 - name: Koppi
@@ -330,7 +330,7 @@
   comment: Etablerat 2007 med eget kafé.
   courses: false
   location: Helsingborg
-  url: '[koppi.se](https://koppi.se)'
+  url: koppi.se
   webshop: true
   subscription: false
 - name: K.W. Karlberg Kafferosteri
@@ -338,7 +338,7 @@
   comment: Stockholms äldska kafferosteri.
   courses: false
   location: Saltsjö-boo
-  url: '[karlbergskafferosteri.se](https://www.karlbergskafferosteri.se)'
+  url: karlbergskafferosteri.se
   webshop: true
   subscription: false
 - name: Lidingö Rosteri
@@ -346,7 +346,7 @@
   comment: Rostar med en Diedrich.
   courses: false
   location: Stockholm
-  url: '[lidingorosteri.se](https://lidingorosteri.se)'
+  url: lidingorosteri.se
   webshop: false
   subscription: false
 - name: Lilla Kafferosteriet
@@ -354,7 +354,7 @@
   comment: Har rostat kaffe i centrala Malmö sen 2006, trivsamt café med kunniga baristor.
   courses: true
   location: Malmö
-  url: '[lillakafferosteriet.se](https://lillakafferosteriet.se)'
+  url: lillakafferosteriet.se
   webshop: true
   subscription: false
 - name: Lindvalls Kaffe
@@ -362,7 +362,7 @@
   comment: Rosteri i femte generationen i centrala Uppsala.
   courses: false
   location: Uppsala
-  url: '[lindvallskaffe.se](http://lindvallskaffe.se)'
+  url: lindvallskaffe.se
   webshop: false
   subscription: false
 - name: Lomberg
@@ -374,7 +374,7 @@
   courses: false
   location: Lund
   subscription: true
-  url: '[lovecoffee.se](https://lovecoffee.se)'
+  url: lovecoffee.se
   webshop: true
 - name: Lykke Kaffegårdar
   cafe: true
@@ -382,7 +382,7 @@
   courses: false
   location: Farsta
   subscription: true
-  url: '[lykkegardar.se](https://lykkegardar.se)'
+  url: lykkegardar.se
   webshop: true
 - name: Löfbergs
   cafe: true
@@ -390,7 +390,7 @@
   courses: false
   subscription: true
   location: Karlstad
-  url: '[lofbergs.se](https://lofbergs.se)'
+  url: lofbergs.se
   webshop: true
 - name: Mauritz
   eol: true
@@ -401,7 +401,7 @@
   location: Varberg
   courses: false
   subscription: false
-  url: '[meltzerskaffe.se](http://meltzerskaffe.se)'
+  url: meltzerskaffe.se
   webshop: true
 - name: Mogen Coffee
   comment: Seems to be the same as Gamla Snickeriet
@@ -412,7 +412,7 @@
   location: Göteborg
   courses: false
   subscription: true
-  url: '[www.morgoncoffeeroasters.com](https://www.morgoncoffeeroasters.com)'
+  url: morgoncoffeeroasters.com
   webshop: true
 - name: Muttley & Jack’s Coffee Roasters
   cafe: false
@@ -420,7 +420,7 @@
   courses: true
   location: Vaxholm
   subscription: true
-  url: '[muttleyandjacks.se](https://muttleyandjacks.se)'
+  url: muttleyandjacks.se
   webshop: true
 - name: Möller & Co
   eol: true
@@ -429,7 +429,7 @@
   comment: Rostat kaffe sen 2011.
   eol: true
   location: Mölnlycke
-  url: '[nordiskakafferosteriet.se](https://nordiskakafferosteriet.se)'
+  url: nordiskakafferosteriet.se
   webshop: true
 - name: Ostindia Rosteriet
   cafe: false
@@ -437,7 +437,7 @@
   courses: false
   location: Vallentuna
   subscription: false
-  url: '[ostindia.se](https://ostindia.se)'
+  url: ostindia.se
   webshop: true
 - name: Peters Kafferosteri
   cafe: false
@@ -445,14 +445,14 @@
   courses: false
   location: Torslanda
   subscription: false
-  url: '[peterskafferosteri.se](https://peterskafferosteri.se)'
+  url: peterskafferosteri.se
   webshop: true
 - name: Qvarsebo Kaffe
   cafe: true
   comment: Caféer och rosteri utanför Kolmården.
   courses: true
   location: Kvarsebo
-  url: '[qvarsebokaffe.se](https://qvarsebokaffe.se)'
+  url: qvarsebokaffe.se
   subscription: false
   webshop: true
 - name: Rosteriet Vadstena
@@ -460,7 +460,7 @@
   comment: Familjeägt och drivet sedan 2015.
   courses: false
   location: Vadstena
-  url: '[rosterietvadstena.se](https://rosterietvadstena.se)'
+  url: rosterietvadstena.se
   subscription: false
   webshop: true
 - name: Rävgrytets Kafferosteri
@@ -469,7 +469,7 @@
   courses: false
   location: Sågmyra Herrgård
   subscription: false
-  url: '[ravgrytet.se](https://ravgrytet.se)'
+  url: ravgrytet.se
   webshop: true
 - name: Sandby Kafferosteri
   cafe: false
@@ -477,7 +477,7 @@
   courses: false
   location: Södra Sandby
   subscription: false
-  url: '[sandbykafferosteri.se](https://sandbykafferosteri.se)'
+  url: sandbykafferosteri.se
   webshop: false
 - name: Simons Rosteri Bageri
   cafe: true
@@ -485,7 +485,7 @@
   courses: true
   location: Linköping
   subscription: false
-  url: '[simonsrosteribageri.se](https://simonsrosteribageri.se)'
+  url: simonsrosteribageri.se
   webshop: true
 - name: Slöinge Kafferosteri
   cafe: false
@@ -493,7 +493,7 @@
   courses: true
   location: Slöinge
   subscription: true
-  url: '[sloingekafferosteri.se](https://sloingekafferosteri.se)'
+  url: sloingekafferosteri.se
   webshop: true
 - name: Smögens Kafferosteri
   cafe: false
@@ -501,7 +501,7 @@
   courses: false
   location: Smögen
   subscription: false
-  url: '[smogenskafferosteri.se](https://smogenskafferosteri.se)'
+  url: smogenskafferosteri.se
   webshop: true
 - name: Solde Kaffe
   cafe: true
@@ -509,20 +509,20 @@
   courses: false
   location: Malmö
   subscription: false
-  url: '[solde.se](https://solde.se)'
+  url: solde.se
   webshop: true
 - name: Solo Kaffe
   eol: true
   comment: Etablerat 1898.
   location: Helsingborg
-  url: '[solokaffe.se](https://solokaffe.se)'
+  url: solokaffe.se
 - name: Stadens Kafferosteri
   cafe: false
   comment: Fixar kaffekurser, uthyrning av baristor och så klart kaffe.
   courses: true
   location: Ulricehamn
   subscription: false
-  url: '[stadenskaffe.se](https://stadenskaffe.se)'
+  url: stadenskaffe.se
   webshop: false
 - name: Stockholmsroast
   cafe: false
@@ -530,7 +530,7 @@
   courses: false
   location: Stockholm
   subscription: false
-  url: '[stockholmroast.se](https://stockholmroast.se)'
+  url: stockholmroast.se
   webshop: true
 - name: Stoked Coffee Roasters
   cafe: false
@@ -538,7 +538,7 @@
   courses: false
   location: Piteå
   subscription: false
-  url: '[getstoked.coffee](https://getstoked.coffee)'
+  url: getstoked.coffee
   webshop: true
 - name: Swerl
   cafe: true
@@ -546,7 +546,7 @@
   courses: false
   location: Falkenberg
   subscription: false
-  url: '[swerl.se](https://swerl.se)'
+  url: swerl.se
   webshop: true
 - name: Tiveds Kafferosteri
   cafe: false
@@ -554,7 +554,7 @@
   courses: false
   location: Tiveden
   subscription: false
-  url: '[tivedskafferosteri.se](https://tivedskafferosteri.se)'
+  url: tivedskafferosteri.se
   webshop: true
 - name: The Broker Coffee Roastery
   cafe: true
@@ -562,7 +562,7 @@
   courses: false
   location: Uppsala
   subscription: false
-  url: '[thebrokercoffee.com](https://thebrokercoffee.com)'
+  url: thebrokercoffee.com
   webshop: true
 - name: The Beautiful Bean
   comment: Rostaren bakom The Beautiful Bean har flyttat till USA men deras Darkside
@@ -575,7 +575,7 @@
   courses: false
   subscription: false
   location: Sala
-  url: '[tornlindskafferosteri.com](https://tornlindskafferosteri.com)'
+  url: tornlindskafferosteri.com
   webshop: true
 - name: Uppsala Kafferosteri
   cafe: false
@@ -583,7 +583,7 @@
   courses: true
   location: Uppsala
   subscription: true
-  url: '[uppsalakafferosteri.se](https://uppsalakafferosteri.se)'
+  url: uppsalakafferosteri.se
   webshop: true
 - name: Waxholms Kafferosteri
   eol: true
@@ -594,7 +594,7 @@
   courses: false
   location: Helsingborg
   subscription: false
-  url: '[zoegas.se](https://zoegas.se)'
+  url: zoegas.se
   webshop: false
 - name: Åre Kafferosteri
   cafe: true
@@ -602,5 +602,5 @@
   courses: false
   location: Järpen
   subscription: true
-  url: '[arekafferosteri.se](https://arekafferosteri.se)'
+  url: arekafferosteri.se
   webshop: true

@@ -42,7 +42,7 @@ En gång i tiden fanns denna lista på Kaffebryggan.com som numer enbart är nå
     {% else -%}
     <td>❓</td>
     {% endif -%}
-    <td>{{ entry.url | markdownify  }}</td>
+    <td><a href="https://{{ entry.url }}">{{ entry.url }}</a></td>
     <td>
     {% if entry.webshop -%}
     📦
