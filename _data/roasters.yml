@@ -332,7 +332,7 @@
   location: Helsingborg
   url: koppi.se
   webshop: true
-  subscription: false
+  subscription: true
 - name: K.W. Karlberg Kafferosteri
   cafe: false
   comment: Stockholms äldska kafferosteri.
