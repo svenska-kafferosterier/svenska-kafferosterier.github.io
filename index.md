@@ -20,6 +20,7 @@ En gång i tiden fanns denna lista på Kaffebryggan.com som numer enbart är nå
     <th>Prenumeration (🗓)</th>
     <th>Café/bar (☕️)</th>
     <th>Kurser (🧑‍🎓)</th>
+    <th><a href="https://en.wikipedia.org/wiki/Single-origin_coffee">Single Origin</a> (🥇)</th>
     <th>Kommentar (💬)</th>
   </tr>
   {% for entry in site.data.roasters -%}
@@ -77,6 +78,16 @@ En gång i tiden fanns denna lista på Kaffebryggan.com som numer enbart är nå
     {% if entry.courses -%}
     🧑‍🎓
     {% elsif entry.courses == false -%}
+    ❌
+    {% else -%}
+    ❓
+    {% endif -%}
+    </td>
+
+    <td>
+    {% if entry.singleorigin -%}
+    🥇
+    {% elsif entry.singleorigin == false -%}
     ❌
     {% else -%}
     ❓
