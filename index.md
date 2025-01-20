@@ -15,7 +15,6 @@ En gång i tiden fanns denna lista på Kaffebryggan.com som numer enbart är nå
   <tr>
     <th>Namn</th>
     <th>Plats (📍)</th>
-    <th>URL (🌐)</th>
     <th>Webshop (📦)</th>
     <th>Prenumeration (🗓)</th>
     <th>Café/bar (☕️)</th>
@@ -37,13 +36,12 @@ En gång i tiden fanns denna lista på Kaffebryggan.com som numer enbart är nå
     {% else -%}
   <tr>
     {% endif -%}
-    <td>{{ entry.name }}</td>
+    <td><a href="https://{{ entry.url }}">{{ entry.name }}</a></td>
     {% if entry.location -%}
     <td>{{ entry.location }}</td>
     {% else -%}
     <td>❓</td>
     {% endif -%}
-    <td><a href="https://{{ entry.url }}">{{ entry.url }}</a></td>
     <td>
     {% if entry.webshop -%}
     📦
