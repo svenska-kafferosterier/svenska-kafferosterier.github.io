@@ -36,6 +36,7 @@
   comment: Rosteri med kaffeprenumerationer och kurser.
   courses: false
   location: Kalmar
+  singleorigin: true
   subscription: true
   url: balckcoffee.se
   webshop: true
@@ -146,9 +147,10 @@
   comment: Etablerat 2009 med café på Mariatorget. Erbjuder kaffeprenumeration.
   courses: false
   location: Stockholm
+  singleorigin: true
+  subscription: true
   url: dropcoffee.com
   webshop: true
-  subscription: true
 - name: Eemils Kafferosteri
   eol: true
   location: Pinnarekulla
@@ -190,9 +192,10 @@
   comment: Rosteri i centrala Göteborg med egen odling i Colombia.
   courses: false
   location: Göteborg
+  singleorigin: true
+  subscription: false
   url: gringonordic.se
   webshop: true
-  subscription: false
 - name: Grästorps Kafferosteri
   cafe: false
   comment: Rostar, säljer och maler kaffebönor på Viktorlundsgatan 12.
@@ -288,6 +291,7 @@
   comment: Du får jättegärna komma förbi!
   courses: true
   location: Tyresö
+  singleorigin: true
   subscription: true
   url: kafferosterietkoppar.se
   webshop: true
@@ -330,9 +334,10 @@
   comment: Etablerat 2007 med eget kafé.
   courses: false
   location: Helsingborg
+  singleorigin: true
+  subscription: true
   url: koppi.se
   webshop: true
-  subscription: true
 - name: K.W. Karlberg Kafferosteri
   cafe: false
   comment: Stockholms äldska kafferosteri.
@@ -373,6 +378,7 @@
   comment: Har kaffeprenumeration och en kaffebar på Klostergatan i Lund.
   courses: false
   location: Lund
+  singleorigin: true
   subscription: true
   url: lovecoffee.se
   webshop: true
@@ -419,6 +425,7 @@
   comment: Etablerat 2017 med kaffeprenumeration.
   courses: true
   location: Vaxholm
+  singleorigin: true
   subscription: true
   url: muttleyandjacks.se
   webshop: true
@@ -545,6 +552,7 @@
   comment: Rostar kaffe, säljer bryggutrustning på nätet och har en Mercedes-buss på Skrea Strand där dom serverar kaffe, frukost och glutenfria bakverk.
   courses: false
   location: Falkenberg
+  singleorigin: true
   subscription: true
   url: swerl.se
   webshop: true
@@ -601,6 +609,7 @@
   comment: Etablerat maj 2007. Har kaffeprenumeration och är öppet för bokade besök.
   courses: false
   location: Järpen
+  singleorigin: true
   subscription: true
   url: arekafferosteri.se
   webshop: true
