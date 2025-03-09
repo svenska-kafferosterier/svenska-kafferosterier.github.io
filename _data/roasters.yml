@@ -470,6 +470,15 @@
   url: rosterietvadstena.se
   subscription: false
   webshop: true
+- name: Rutasoka
+  cafe: false
+  comment: Ekologiskt kaffe från Kongo sedan 2017.
+  courses: false
+  location: Hisings Backa
+  url: rutasoka.com
+  singleorigin: false
+  subscription: false
+  webshop: true
 - name: Rävgrytets Kafferosteri
   cafe: false
   comment: Med ett kaffe som heter Support your Locals, gör det!
