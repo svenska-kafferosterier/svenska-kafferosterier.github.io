@@ -248,10 +248,11 @@
   subscription: false
 - name: Ingarö Rosteri
   cafe: false
-  comment: Etablerat 2015 i Stockholms skärgård.
+  comment: Ekologiskt specialkaffe. Etablerat 2015 i Stockholms skärgård.
   courses: false
   location: Ingarö
-  subscription: false
+  singleorigin: true
+  subscription: true
   url: ingarorosteri.se
   webshop: true
 - name: Johan & Nyström
