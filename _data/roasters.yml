@@ -528,6 +528,15 @@
   subscription: false
   url: solde.se
   webshop: true
+- name: Solkant Kafferosteri
+  cafe: false
+  comment: Mariefreds första och enda kafferosteri!
+  courses: false
+  location: Mariefred
+  singleorigin: trusolkantkafferosteri.se
+  subscription: false
+  url: solkantkafferosteri.se
+  webshop: true
 - name: Solo Kaffe
   eol: true
   comment: Etablerat 1898.
