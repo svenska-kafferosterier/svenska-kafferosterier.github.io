@@ -533,7 +533,7 @@
   comment: Mariefreds första och enda kafferosteri!
   courses: false
   location: Mariefred
-  singleorigin: trusolkantkafferosteri.se
+  singleorigin: true
   subscription: false
   url: solkantkafferosteri.se
   webshop: true
