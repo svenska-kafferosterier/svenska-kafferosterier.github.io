@@ -615,6 +615,15 @@
 - name: Waxholms Kafferosteri
   eol: true
   location: Waxholm
+- name: White Cockatoo Coffee Roastery
+  cafe: false
+  comment: Cockatoo Coffee är ett småskaligt kafferosteri med en passion för specialkaffe och hållbarhet
+  courses: false
+  location: Bålsta
+  singleorigin: true
+  subscription: true
+  url: cockatoocoffee.se
+  webshop: true
 - name: Zoégas
   cafe: false
   comment: Etablerat 1886.
