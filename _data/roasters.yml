@@ -263,6 +263,10 @@
   subscription: false
   url: johanochnystrom.se
   webshop: true
+- name: Jonsereds Kafferosteri
+  comment: Lokalt rostat hantverkskaffe i Jonsereds Fabriker utanför Göteborg.
+  location: Jonsered
+  url: jonseredskafferosteri.se
 - name: Järna Rosteri
   comment: Rostar ekologiskt kaffe och erjuder barista-utbildningar.
   eol: true
