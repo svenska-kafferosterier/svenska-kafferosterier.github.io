@@ -326,12 +326,11 @@
   webshop: true
   subscription: false
 - name: Kersh Kafferosteri
-  cafe: false
-  comment: Med restaurang på Hornstull och en cykeldriven ”brew bar”. Beställ Kersh
-    kaffe här.
+  cafe: true
+  comment: Även cafe på Götgatan
   courses: false
   location: Stockholm
-  url: kershkafferosteri.se
+  url: kersh.se
   webshop: true
   subscription: false
 - name: Koppi
