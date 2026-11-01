@@ -193,7 +193,7 @@
   courses: false
   location: Göteborg
   singleorigin: true
-  subscription: false
+  subscription: true
   url: gringonordic.se
   webshop: true
 - name: Grästorps Kafferosteri
