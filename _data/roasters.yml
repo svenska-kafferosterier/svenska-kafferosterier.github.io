@@ -363,6 +363,8 @@
   comment: Har rostat kaffe i centrala Malmö sen 2006, trivsamt café med kunniga baristor.
   courses: true
   location: Malmö
+  singleorigin: true
+  subscription: true
   url: lillakafferosteriet.se
   webshop: true
   subscription: false
