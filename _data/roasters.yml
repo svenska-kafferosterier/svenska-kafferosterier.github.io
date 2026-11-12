@@ -12,12 +12,21 @@
 # webshop: boolean
 #
 ---
+- name: 12 Knots Coffee Roasters
+  cafe: true
+  location: Trollhättan
+  url: 12knotscoffee.com
+  webshop: true
+- name: Ala rosteri
+  location: Laholm
+  url: alarosteri.se
+  webshop: true
 - name: Areyko
   eol: true
   location: Malmö
 - name: Archipelago Coffee
   cafe: false
-  comment: Hittas i Stockholms skärgård precis som namnet antyder.
+  comment: Varumärke från Muttley & Jack's, som rostar på Rindö.
   courses: false
   location: Rindö
   subscription: false
@@ -27,10 +36,14 @@
   cafe: false
   comment: Etablerat 1884.
   courses: false
-  location: Solna
+  location: Järfälla
   subscription: false
   url: arvidnordquist.se
   webshop: false
+- name: Ask Kafferosteri
+  location: Torslanda
+  url: askkaffe.se
+  webshop: true
 - name: Balck Coffee
   cafe: false
   comment: Rosteri med kaffeprenumerationer och kurser.
@@ -39,6 +52,11 @@
   singleorigin: true
   subscription: true
   url: balckcoffee.se
+  webshop: true
+- name: Beanaut Coffee Roasters
+  comment: Etablerat 2022.
+  location: Örebro
+  url: beanautroasters.com
   webshop: true
 - name: Bergstrands Kaffferosteri
   cafe: false
@@ -64,6 +82,10 @@
   subscription: false
   url: bjorklundskaffe.se
   webshop: true
+- name: Blakk kafferosteri
+  location: Stenungsund
+  url: blakkrosteri.se
+  webshop: true
 - name: Blekinge Kafferosteri
   cafe: false
   comment: Anordnar kaffeprovningar och har butik i Mörrum.
@@ -88,11 +110,16 @@
   url: budhaskafferosteri.se
   webshop: true
   subscription: false
+- name: Bunn Kafferosteri
+  comment: Etablerat 2021.
+  location: Eskilstuna
+  url: bunnkafferosteri.se
+  webshop: true
 - name: Cafego
   cafe: false
   comment: Sikta högt, Cafegos kaffe odlas i alla fall på hög höjd.
   courses: false
-  location: Helsingborg
+  location: Trelleborg
   url: cafego.se
   webshop: true
   subscription: false
@@ -101,14 +128,6 @@
   eol: true
   location: Gävle
   url: cafesarria.com
-- name: Coffea Circulor
-  cafe: false
-  comment: Bedriver forskning för att främja kaffeodlandet är också ett rosteri.
-  courses: false
-  location: ❓
-  url: coffeacirculor.com
-  webshop: true
-  subscription: false
 - name: Conifer Coffee
   comment: Småskaligt på västkusten.
   eol: true
@@ -120,7 +139,7 @@
   comment: Rostas av Costas Pliatsikas i centrala Umeå.
   courses: false
   location: Umeå
-  url: facebook.com/costasofswedenthecoffeebar/
+  url: costasofsweden.com
   webshop: true
   subscription: false
 - name: Cozo Coffee
@@ -160,6 +179,16 @@
   location: Uppsala
   url: etnia.se
   webshop: true
+- name: Fandango Coffee Roasters
+  comment: Etablerat 2026.
+  location: Bålsta
+  url: fandangocoffee.com
+  webshop: true
+- name: Fika Moose kafferosteri
+  cafe: true
+  location: Lerdala
+  url: fikamoose.se
+  webshop: true
 - name: Gamla Snickeriet Kafferosteri
   cafe: false
   comment: Rosteri i ett gammalt snickeri, helt enkelt.
@@ -180,10 +209,14 @@
   cafe: false
   comment: Gibson Coffee erbjuder hantverksrostat specialkaffe!
   courses: false
+  eol: true
   location: Jonsered
   subscription: false
   url: gibsonscoffee.se
   webshop: true
+- name: Gillis Rosteri AB
+  comment: Etablerat 2021.
+  location: Värmlands Nysäter
 - name: Gotlands Kafferosteri
   eol: true
   location: Visby
@@ -208,6 +241,7 @@
   cafe: false
   comment: Grundat 1946.
   courses: false
+  eol: true
   location: Söderhamn
   url: shop.guldrutan.com
   subscription: false
@@ -224,6 +258,7 @@
   cafe: true
   comment: Rostning pågår vid foten av Vista Kulle, strax norr om Jönköping.
   courses: false
+  eol: true
   location: Huskvarna
   url: gardsrosteriet.se
   subscription: false
@@ -246,6 +281,26 @@
   url: hallakafferosteri.com
   webshop: true
   subscription: false
+- name: Hälsinge Kaffe & Rosteri
+  comment: Etablerat 2020.
+  location: Söderhamn
+  url: halsingekaffe.se
+  webshop: true
+- name: Höga Kusten Kaffe Rosteri
+  cafe: true
+  comment: Etablerat 2014.
+  location: Stockholm
+  url: hogakustenkafferosteri.se
+  webshop: true
+- name: I am Coffee
+  location: Halmstad
+  url: imcoffee.se
+  webshop: true
+- name: IDO Te & Kafferosteri
+  comment: Etablerat 2018.
+  location: Sundsvall
+  url: idorosteri.se
+  webshop: false
 - name: Ingarö Rosteri
   cafe: false
   comment: Ekologiskt specialkaffe. Etablerat 2015 i Stockholms skärgård.
@@ -255,6 +310,9 @@
   subscription: true
   url: ingarorosteri.se
   webshop: true
+- name: J28 Coffee Roasters
+  comment: Etablerat 2022.
+  location: Umeå
 - name: Johan & Nyström
   cafe: true
   comment: Beställ Johan & Nyströms kaffe här.
@@ -267,11 +325,24 @@
   comment: Lokalt rostat hantverkskaffe i Jonsereds Fabriker utanför Göteborg.
   location: Jonsered
   url: jonseredskafferosteri.se
+  webshop: false
 - name: Järna Rosteri
   comment: Rostar ekologiskt kaffe och erjuder barista-utbildningar.
-  eol: true
   location: Järna
   url: jarnarosteri.se
+  webshop: true
+- name: K&B kafferosteri
+  location: Laholm
+  url: kbkafferosteri.se
+  webshop: true
+- name: Kaffekompaniet
+  location: Askim (Göteborg)
+  url: kaffekompaniet.se
+  webshop: false
+- name: Kaffemissionären
+  location: Stockholm
+  url: kaffemissionaren.se
+  webshop: true
 - name: Kaffemästaren
   cafe: true
   comment: Med butik för både kaffe och utrustning i centrala Örebro.
@@ -280,10 +351,15 @@
   url: kaffemastaren.se
   subscription: false
   webshop: true
+- name: Kaffero
+  location: Hallsberg
+  url: kaffero.se
+  webshop: true
 - name: Kafferosteriet Götheborg
   cafe: false
-  comment: Med butik i Jörlanda utanför Göteborg.
+  comment: Numera en produktserie hos Gringo Nordic.
   courses: false
+  eol: true
   location: Jörlanda
   subscription: false
   url: kafferosterietgotheborg.se
@@ -291,6 +367,11 @@
 - name: Kafferosteriet / Cirkelkaffe
   eol: true
   location: Gäddviken
+- name: Kafferosteriet i Tällberg
+  comment: Etablerat 2020.
+  location: Tällberg
+  url: kakstugan.se
+  webshop: false
 - name: Kafferosteriet Koppar
   cafe: false
   comment: Du får jättegärna komma förbi!
@@ -308,6 +389,14 @@
   subscription: true
   url: kafferaven.se
   webshop: true
+- name: Kaffesmak rosteri
+  location: Sollefteå
+  url: kaffesmak.se
+  webshop: true
+- name: Kaffestugan i Böda
+  location: Löttorp
+  url: kaffestuganiboda.se
+  webshop: false
 - name: Kahls Kaffe
   cafe: false
   comment: Etablerat 1911 och har både te och kaffe i sortimentet. Beställ Kahls Kaffe
@@ -325,6 +414,11 @@
   url: kaprifolet.se
   webshop: true
   subscription: false
+- name: Karma Coffee
+  comment: Etablerat 2014.
+  location: Stockholm
+  url: karmacoffee.se
+  webshop: true
 - name: Kersh Kafferosteri
   cafe: true
   comment: Även cafe på Götgatan
@@ -333,6 +427,11 @@
   url: kersh.se
   webshop: true
   subscription: false
+- name: Kompass kafferosteri
+  cafe: true
+  location: Ystad
+  url: kompasskafferosteri.se
+  webshop: true
 - name: Koppi
   cafe: false
   comment: Etablerat 2007 med eget kafé.
@@ -350,6 +449,26 @@
   url: karlbergskafferosteri.se
   webshop: true
   subscription: false
+- name: Kungsholmens Kafferosteri
+  cafe: true
+  location: Stockholm
+  url: kungsholmenskafferosteri.se
+  webshop: true
+- name: Kungälvs Kafferosteri
+  comment: Etablerat 2008.
+  location: Ytterby
+  url: kungalvskafferosteri.se
+  webshop: false
+- name: La Clara Coffee Roasters
+  comment: Etablerat 2021.
+  location: Stallarholmen
+  url: laclara-coffee.com
+  webshop: true
+- name: Leonardos Kafferosteri
+  comment: Etablerat 2010.
+  location: Stockholm
+  url: leonardoskafferosteri.se
+  webshop: false
 - name: Lidingö Rosteri
   cafe: false
   comment: Rostar med en Diedrich.
@@ -368,10 +487,16 @@
   url: lillakafferosteriet.se
   webshop: true
   subscription: false
+- name: Limhamns kafferosteri
+  cafe: true
+  location: Limhamn
+  url: kafferosteri.se
+  webshop: true
 - name: Lindvalls Kaffe
   cafe: false
-  comment: Rosteri i femte generationen i centrala Uppsala.
+  comment: Egen rostning i Uppsala upphör 2026; kaffet rostas därefter av Bergstrands.
   courses: false
+  eol: true
   location: Uppsala
   url: lindvallskaffe.se
   webshop: false
@@ -403,6 +528,11 @@
   subscription: true
   location: Karlstad
   url: lofbergs.se
+  webshop: true
+- name: Maggmma Beans
+  comment: Etablerat 2025.
+  location: Västerås
+  url: joinmaggmma.se
   webshop: true
 - name: Mauritz
   eol: true
@@ -444,6 +574,15 @@
   location: Mölnlycke
   url: nordiskakafferosteriet.se
   webshop: true
+- name: Oaxen Kafferosteri
+  comment: Etablerat 2014.
+  location: Gnesta
+  url: oaxenkafferosteri.se
+  webshop: false
+- name: Ombergs Kafferosteri
+  location: Ödeshög (Omberg)
+  url: ombergskafferosteri.se
+  webshop: true
 - name: Ostindia Rosteriet
   cafe: false
   comment: Säljer till företag, restauranger och hotell och caféer.
@@ -452,6 +591,15 @@
   subscription: false
   url: ostindia.se
   webshop: true
+- name: Pascal café, bakery & roastery
+  cafe: true
+  location: Stockholm
+  url: cafepascal.se
+  webshop: true
+- name: Pennybridge Roasters
+  location: Örebro
+  url: pennybridgeroasters.com
+  webshop: true
 - name: Peters Kafferosteri
   cafe: false
   comment: Seglare & kafferostare
@@ -459,6 +607,16 @@
   location: Torslanda
   subscription: false
   url: peterskafferosteri.se
+  webshop: false
+- name: Prima Gård & Prima Rosteri
+  comment: Etablerat 2014.
+  location: Fårösund
+  url: primavisby.se
+  webshop: false
+- name: Quo Coffee
+  cafe: true
+  location: Skärhamn
+  url: quocoffee.com
   webshop: true
 - name: Qvarsebo Kaffe
   cafe: true
@@ -468,6 +626,15 @@
   url: qvarsebokaffe.se
   subscription: false
   webshop: true
+- name: Ritu Coffee Roasters
+  comment: Etablerat 2019.
+  location: Göteborg
+  url: ritucoffee.com
+  webshop: true
+- name: Riverdam Roastery
+  location: Härnösand
+  url: riverdamroastery.se
+  webshop: true
 - name: Rosteriet Vadstena
   cafe: false
   comment: Familjeägt och drivet sedan 2015.
@@ -475,6 +642,11 @@
   location: Vadstena
   url: rosterietvadstena.se
   subscription: false
+  webshop: true
+- name: Rosthuset
+  comment: Etablerat 2017.
+  location: Lidköping
+  url: rosthuset.com
   webshop: true
 - name: Rutasoka
   cafe: false
@@ -489,9 +661,17 @@
   cafe: false
   comment: Med ett kaffe som heter Support your Locals, gör det!
   courses: false
-  location: Sågmyra Herrgård
+  location: Järvsö
   subscription: false
   url: ravgrytet.se
+  webshop: true
+- name: Råhygge Sverige AB
+  location: Tygelsjö
+  url: rahygge.com
+  webshop: true
+- name: Samson Organic Coffee
+  location: Limmared
+  url: samsonorganiccoffee.se
   webshop: true
 - name: Sandby Kafferosteri
   cafe: false
@@ -500,7 +680,11 @@
   location: Södra Sandby
   subscription: false
   url: sandbykafferosteri.se
-  webshop: false
+  webshop: true
+- name: Sigtuna kafferosteri
+  location: Knivsta
+  url: sigtunakafferosteri.com
+  webshop: true
 - name: Simons Rosteri Bageri
   cafe: true
   comment: Kafferosteri, hantverksbageri och café.
@@ -510,6 +694,11 @@
   subscription: false
   url: simonsrosteribageri.se
   webshop: true
+- name: Skokloster Kafferosteri & Café
+  cafe: true
+  location: Skokloster
+  url: skoklosterkafferosteri.se
+  webshop: true
 - name: Slöinge Kafferosteri
   cafe: false
   comment: Etablerat 2013, erbjuder kaffeprenumeration.
@@ -518,6 +707,11 @@
   subscription: true
   url: sloingekafferosteri.se
   webshop: true
+- name: Smålands Kafferosteri
+  comment: Etablerat 1990.
+  location: Åseda
+  url: rosteriet.com
+  webshop: false
 - name: Smögens Kafferosteri
   cafe: false
   comment: Etablerat 2018 och så vitt jag vet sveriges enda kafferosteri i en sjöbod.
@@ -556,6 +750,11 @@
   subscription: false
   url: stadenskaffe.se
   webshop: false
+- name: Standout Coffee
+  comment: Etablerat 2020.
+  location: Stockholm
+  url: standoutcoffee.com
+  webshop: true
 - name: Stockholmsroast
   cafe: false
   comment: Etablerat 2011.
@@ -572,6 +771,11 @@
   subscription: false
   url: getstoked.coffee
   webshop: true
+- name: Svanfeldts Coffee
+  comment: Etablerat 2012.
+  location: Uppsala
+  url: svanfeldtscoffee.se
+  webshop: true
 - name: Swerl
   cafe: true
   comment: Rostar kaffe, säljer bryggutrustning på nätet och har en Mercedes-buss på Skrea Strand där dom serverar kaffe, frukost och glutenfria bakverk.
@@ -580,6 +784,16 @@
   singleorigin: true
   subscription: true
   url: swerl.se
+  webshop: true
+- name: Söderbergs Bageri
+  location: Stockholm
+  url: soderbergsbageri.se
+  webshop: false
+- name: TADAH kafferosteri
+  cafe: true
+  comment: Etablerat 2020.
+  location: Lenhovda
+  url: tadah.se
   webshop: true
 - name: Tiveds Kafferosteri
   cafe: false
@@ -618,9 +832,19 @@
   subscription: true
   url: uppsalakafferosteri.se
   webshop: true
+- name: Volca Coffee Roaster
+  cafe: true
+  location: Stockholm
+  url: volcacoffee.se
+  webshop: true
 - name: Waxholms Kafferosteri
   eol: true
   location: Waxholm
+- name: Werme kafferosteri
+  comment: Etablerat 2020.
+  location: Ystad
+  url: gardshotellet.se
+  webshop: true
 - name: White Cockatoo Coffee Roastery
   cafe: false
   comment: Cockatoo Coffee är ett småskaligt kafferosteri med en passion för specialkaffe och hållbarhet
@@ -629,6 +853,10 @@
   singleorigin: true
   subscription: true
   url: cockatoocoffee.se
+  webshop: true
+- name: Ziiip Coffee
+  location: Skogås
+  url: ziiipcoffee.se
   webshop: true
 - name: Zoégas
   cafe: false
@@ -646,4 +874,8 @@
   singleorigin: true
   subscription: true
   url: arekafferosteri.se
+  webshop: true
+- name: Östra Grevie kafferosteri
+  location: Vellinge
+  url: ostragreviekafferosteri.se
   webshop: true
