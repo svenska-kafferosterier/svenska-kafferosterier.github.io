@@ -101,14 +101,6 @@
   eol: true
   location: Gävle
   url: cafesarria.com
-- name: Coffea Circulor
-  cafe: false
-  comment: Bedriver forskning för att främja kaffeodlandet är också ett rosteri.
-  courses: false
-  location: ❓
-  url: coffeacirculor.com
-  webshop: true
-  subscription: false
 - name: Conifer Coffee
   comment: Småskaligt på västkusten.
   eol: true
@@ -180,6 +172,7 @@
   cafe: false
   comment: Gibson Coffee erbjuder hantverksrostat specialkaffe!
   courses: false
+  eol: true
   location: Jonsered
   subscription: false
   url: gibsonscoffee.se
@@ -208,6 +201,7 @@
   cafe: false
   comment: Grundat 1946.
   courses: false
+  eol: true
   location: Söderhamn
   url: shop.guldrutan.com
   subscription: false
@@ -224,6 +218,7 @@
   cafe: true
   comment: Rostning pågår vid foten av Vista Kulle, strax norr om Jönköping.
   courses: false
+  eol: true
   location: Huskvarna
   url: gardsrosteriet.se
   subscription: false
@@ -269,9 +264,9 @@
   url: jonseredskafferosteri.se
 - name: Järna Rosteri
   comment: Rostar ekologiskt kaffe och erjuder barista-utbildningar.
-  eol: true
   location: Järna
   url: jarnarosteri.se
+  webshop: true
 - name: Kaffemästaren
   cafe: true
   comment: Med butik för både kaffe och utrustning i centrala Örebro.
@@ -282,8 +277,9 @@
   webshop: true
 - name: Kafferosteriet Götheborg
   cafe: false
-  comment: Med butik i Jörlanda utanför Göteborg.
+  comment: Numera en produktserie hos Gringo Nordic.
   courses: false
+  eol: true
   location: Jörlanda
   subscription: false
   url: kafferosterietgotheborg.se
@@ -370,8 +366,9 @@
   subscription: false
 - name: Lindvalls Kaffe
   cafe: false
-  comment: Rosteri i femte generationen i centrala Uppsala.
+  comment: Egen rostning i Uppsala upphör 2026; kaffet rostas därefter av Bergstrands.
   courses: false
+  eol: true
   location: Uppsala
   url: lindvallskaffe.se
   webshop: false
