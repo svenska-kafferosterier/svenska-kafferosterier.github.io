@@ -17,7 +17,7 @@
   location: Malmö
 - name: Archipelago Coffee
   cafe: false
-  comment: Hittas i Stockholms skärgård precis som namnet antyder.
+  comment: Varumärke från Muttley & Jack's, som rostar på Rindö.
   courses: false
   location: Rindö
   subscription: false
@@ -27,7 +27,7 @@
   cafe: false
   comment: Etablerat 1884.
   courses: false
-  location: Solna
+  location: Järfälla
   subscription: false
   url: arvidnordquist.se
   webshop: false
@@ -92,7 +92,7 @@
   cafe: false
   comment: Sikta högt, Cafegos kaffe odlas i alla fall på hög höjd.
   courses: false
-  location: Helsingborg
+  location: Trelleborg
   url: cafego.se
   webshop: true
   subscription: false
@@ -112,7 +112,7 @@
   comment: Rostas av Costas Pliatsikas i centrala Umeå.
   courses: false
   location: Umeå
-  url: facebook.com/costasofswedenthecoffeebar/
+  url: costasofsweden.com
   webshop: true
   subscription: false
 - name: Cozo Coffee
@@ -262,6 +262,7 @@
   comment: Lokalt rostat hantverkskaffe i Jonsereds Fabriker utanför Göteborg.
   location: Jonsered
   url: jonseredskafferosteri.se
+  webshop: false
 - name: Järna Rosteri
   comment: Rostar ekologiskt kaffe och erjuder barista-utbildningar.
   location: Järna
@@ -456,7 +457,7 @@
   location: Torslanda
   subscription: false
   url: peterskafferosteri.se
-  webshop: true
+  webshop: false
 - name: Qvarsebo Kaffe
   cafe: true
   comment: Caféer och rosteri utanför Kolmården.
@@ -486,7 +487,7 @@
   cafe: false
   comment: Med ett kaffe som heter Support your Locals, gör det!
   courses: false
-  location: Sågmyra Herrgård
+  location: Järvsö
   subscription: false
   url: ravgrytet.se
   webshop: true
@@ -497,7 +498,7 @@
   location: Södra Sandby
   subscription: false
   url: sandbykafferosteri.se
-  webshop: false
+  webshop: true
 - name: Simons Rosteri Bageri
   cafe: true
   comment: Kafferosteri, hantverksbageri och café.
